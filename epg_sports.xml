@@ -107,6 +107,13 @@
     <display-name>974 SPOTV GOLF PLUS</display-name>
     <display-name>974 SK</display-name>
   </channel>
+  <channel id="JTBC GOLF">
+    <display-name>JTBC GOLF</display-name>
+    <display-name>SK</display-name>
+    <display-name>976</display-name>
+    <display-name>976 JTBC GOLF</display-name>
+    <display-name>976 SK</display-name>
+  </channel>
   <programme start="20261111010000 +0900" stop="20261111040000 +0900" channel="JTBC SPORTS">
     <title lang="ko">영광의 순간들 (28회) (재)</title>
     <sub-title lang="ko">스피드스케이팅-이상화</sub-title>
@@ -9690,6 +9697,543 @@
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
     <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111003000 +0900" stop="20261111013000 +0900" channel="JTBC GOLF">
+    <title lang="ko">레슨 스튜디오 with AI (41회)</title>
+    <desc lang="ko">레슨 스튜디오 with AI (41회)
+회차 : 41회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111013000 +0900" stop="20261111040000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (1회)</title>
+    <sub-title lang="ko">LA VS 뉴욕</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (1회)
+부제 : LA VS 뉴욕
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111040000 +0900" stop="20261111063000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 JLPGA 어스 몬다민 컵</title>
+    <sub-title lang="ko">FR, 박현경 우승</sub-title>
+    <desc lang="ko">2026 JLPGA 어스 몬다민 컵
+부제 : FR, 박현경 우승
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111063000 +0900" stop="20261111073000 +0900" channel="JTBC GOLF">
+    <title lang="ko">레슨 스튜디오 with AI (41회)</title>
+    <desc lang="ko">레슨 스튜디오 with AI (41회)
+회차 : 41회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111073000 +0900" stop="20261111100000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (1회)</title>
+    <sub-title lang="ko">LA VS 뉴욕</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (1회)
+부제 : LA VS 뉴욕
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111100000 +0900" stop="20261111120000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111120000 +0900" stop="20261111140000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111140000 +0900" stop="20261111173000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2016 리우 올림픽 여자 골프</title>
+    <sub-title lang="ko">3R, 박인비 금메달</sub-title>
+    <desc lang="ko">2016 리우 올림픽 여자 골프
+부제 : 3R, 박인비 금메달
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111173000 +0900" stop="20261111180000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 WTGL 에브리 샷 (1회)</title>
+    <desc lang="ko">2026 WTGL 에브리 샷 (1회)
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111180000 +0900" stop="20261111190000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (5회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (5회)
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111190000 +0900" stop="20261111210000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111210000 +0900" stop="20261111220000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111220000 +0900" stop="20261111223000 +0900" channel="JTBC GOLF">
+    <title lang="ko">LIV GOLF 시크릿 레슨 (8회)</title>
+    <sub-title lang="ko">케빈 나</sub-title>
+    <desc lang="ko">LIV GOLF 시크릿 레슨 (8회)
+부제 : 케빈 나
+회차 : 8회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111223000 +0900" stop="20261112003000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112003000 +0900" stop="20261112013000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112013000 +0900" stop="20261112043000 +0900" channel="JTBC GOLF">
+    <title lang="ko">[JLPGA 스타 요시다 린 우승]2026 JLPGA CAT 레이디스</title>
+    <sub-title lang="ko">FR</sub-title>
+    <desc lang="ko">[JLPGA 스타 요시다 린 우승]2026 JLPGA CAT 레이디스
+부제 : FR
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112043000 +0900" stop="20261112070000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (1회)</title>
+    <sub-title lang="ko">LA VS 뉴욕</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (1회)
+부제 : LA VS 뉴욕
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112070000 +0900" stop="20261112090000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112090000 +0900" stop="20261112100000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112103000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 WTGL 에브리 샷 (2회)</title>
+    <desc lang="ko">2026 WTGL 에브리 샷 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112103000 +0900" stop="20261112113000 +0900" channel="JTBC GOLF">
+    <title lang="ko">레슨 스튜디오 with AI (41회)</title>
+    <desc lang="ko">레슨 스튜디오 with AI (41회)
+회차 : 41회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112113000 +0900" stop="20261112140000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (1회)</title>
+    <sub-title lang="ko">LA VS 뉴욕</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (1회)
+부제 : LA VS 뉴욕
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112140000 +0900" stop="20261112173000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2016 리우 올림픽 여자 골프</title>
+    <sub-title lang="ko">FR, 박인비 금메달</sub-title>
+    <desc lang="ko">2016 리우 올림픽 여자 골프
+부제 : FR, 박인비 금메달
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112173000 +0900" stop="20261112193000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112193000 +0900" stop="20261112203000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112203000 +0900" stop="20261112210000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 WTGL 에브리 샷 (2회)</title>
+    <desc lang="ko">2026 WTGL 에브리 샷 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112210000 +0900" stop="20261112222000 +0900" channel="JTBC GOLF">
+    <title lang="ko">레슨 스튜디오 with AI 베스트 레슨 (7회)</title>
+    <sub-title lang="ko">성시우 프로</sub-title>
+    <desc lang="ko">레슨 스튜디오 with AI 베스트 레슨 (7회)
+부제 : 성시우 프로
+회차 : 7회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112222000 +0900" stop="20261113013000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 아시안투어 필리핀 오픈</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 아시안투어 필리핀 오픈
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113013000 +0900" stop="20261113033000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (2회)</title>
+    <sub-title lang="ko">모터 시티 VS LA</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (2회)
+부제 : 모터 시티 VS LA
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113033000 +0900" stop="20261113040000 +0900" channel="JTBC GOLF">
+    <title lang="ko">LIV GOLF 시크릿 레슨 (8회)</title>
+    <sub-title lang="ko">케빈 나</sub-title>
+    <desc lang="ko">LIV GOLF 시크릿 레슨 (8회)
+부제 : 케빈 나
+회차 : 8회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113040000 +0900" stop="20261113070000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 아시안투어 필리핀 오픈</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 아시안투어 필리핀 오픈
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113070000 +0900" stop="20261113080000 +0900" channel="JTBC GOLF">
+    <title lang="ko">레슨 스튜디오 with AI (41회)</title>
+    <desc lang="ko">레슨 스튜디오 with AI (41회)
+회차 : 41회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113080000 +0900" stop="20261113090000 +0900" channel="JTBC GOLF">
+    <title lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)</title>
+    <desc lang="ko">NH올원뱅크·아시아투데이 제17회 대학동문골프최강전 (6회)
+회차 : 6회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113090000 +0900" stop="20261113113000 +0900" channel="JTBC GOLF">
+    <title lang="ko">MATCH Rewind 2026 WTGL (1회)</title>
+    <sub-title lang="ko">LA VS 뉴욕</sub-title>
+    <desc lang="ko">MATCH Rewind 2026 WTGL (1회)
+부제 : LA VS 뉴욕
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113113000 +0900" stop="20261113133000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 JLPGA 제42회 이토엔 레이디스</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 JLPGA 제42회 이토엔 레이디스
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113133000 +0900" stop="20261113153000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 JLPGA 제42회 이토엔 레이디스</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 JLPGA 제42회 이토엔 레이디스
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113153000 +0900" stop="20261113183000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 JLPGA 제42회 이토엔 레이디스</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 JLPGA 제42회 이토엔 레이디스
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113183000 +0900" stop="20261113213000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 아시안투어 필리핀 오픈</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 아시안투어 필리핀 오픈
+부제 : 2R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113213000 +0900" stop="20261114003000 +0900" channel="JTBC GOLF">
+    <title lang="ko">2026 JLPGA Today 제42회 이토엔 레이디스</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 JLPGA Today 제42회 이토엔 레이디스
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
