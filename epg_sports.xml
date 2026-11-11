@@ -93,6 +93,20 @@
     <display-name>989 SPOTV Prime</display-name>
     <display-name>989 SK</display-name>
   </channel>
+  <channel id="Billiards TV">
+    <display-name>Billiards TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>231</display-name>
+    <display-name>231 Billiards TV</display-name>
+    <display-name>231 SK</display-name>
+  </channel>
+  <channel id="SPOTV GOLF PLUS">
+    <display-name>SPOTV GOLF PLUS</display-name>
+    <display-name>SK</display-name>
+    <display-name>974</display-name>
+    <display-name>974 SPOTV GOLF PLUS</display-name>
+    <display-name>974 SK</display-name>
+  </channel>
   <programme start="20261111010000 +0900" stop="20261111040000 +0900" channel="JTBC SPORTS">
     <title lang="ko">영광의 순간들 (28회) (재)</title>
     <sub-title lang="ko">스피드스케이팅-이상화</sub-title>
@@ -8417,6 +8431,1265 @@
 등급 : 전체 관람가</desc>
     <category lang="ko">스포츠</category>
     <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111003000 +0900" stop="20261111013000 +0900" channel="Billiards TV">
+    <title lang="ko">초전박살 (17회)</title>
+    <sub-title lang="ko">25-26 웰컴_PBA</sub-title>
+    <desc lang="ko">초전박살 (17회)
+부제 : 25-26 웰컴_PBA
+회차 : 17회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.16.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111013000 +0900" stop="20261111023000 +0900" channel="Billiards TV">
+    <title lang="ko">하이런클럽 (2회)</title>
+    <desc lang="ko">하이런클럽 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111023000 +0900" stop="20261111033000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (30회)</title>
+    <desc lang="ko">RE:CUE (30회)
+회차 : 30회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.29.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111033000 +0900" stop="20261111050000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (2회)</title>
+    <desc lang="ko">팀리그 올스타전 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111050000 +0900" stop="20261111060000 +0900" channel="Billiards TV">
+    <title lang="ko">TOP30 베스트샷 스페셜 (2회)</title>
+    <desc lang="ko">TOP30 베스트샷 스페셜 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111060000 +0900" stop="20261111070000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (31회)</title>
+    <desc lang="ko">RE:CUE (31회)
+회차 : 31회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.30.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111070000 +0900" stop="20261111083000 +0900" channel="Billiards TV">
+    <title lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (10회)</title>
+    <desc lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (10회)
+회차 : 10회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111083000 +0900" stop="20261111100000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (3회)</title>
+    <desc lang="ko">팀리그 올스타전 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111100000 +0900" stop="20261111110000 +0900" channel="Billiards TV">
+    <title lang="ko">청춘라이프 (3회)</title>
+    <desc lang="ko">청춘라이프 (3회)
+회차 : 3회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111110000 +0900" stop="20261111123000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 PBA 챔피언십 2025</title>
+    <sub-title lang="ko">128강5,이희진 : 조재호</sub-title>
+    <desc lang="ko">휴온스 PBA 챔피언십 2025
+부제 : 128강5,이희진 : 조재호
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111123000 +0900" stop="20261111140000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 LPBA 챔피언십 2025</title>
+    <sub-title lang="ko">32강6,이미래 : 김진아</sub-title>
+    <desc lang="ko">휴온스 LPBA 챔피언십 2025
+부제 : 32강6,이미래 : 김진아
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111140000 +0900" stop="20261111150000 +0900" channel="Billiards TV">
+    <title lang="ko">PBA-RECORDS (3회)</title>
+    <desc lang="ko">PBA-RECORDS (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111150000 +0900" stop="20261111160000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 PBA 챔피언십 26-27</title>
+    <sub-title lang="ko">128강7,이찬형 : 마르티네스</sub-title>
+    <desc lang="ko">NH농협카드 PBA 챔피언십 26-27
+부제 : 128강7,이찬형 : 마르티네스
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111160000 +0900" stop="20261111170000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 LPBA 챔피언십 26-27</title>
+    <sub-title lang="ko">32강5,한슬기 : 서한솔</sub-title>
+    <desc lang="ko">NH농협카드 LPBA 챔피언십 26-27
+부제 : 32강5,한슬기 : 서한솔
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111170000 +0900" stop="20261111190000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 LPBA 챔피언십 26-27</title>
+    <sub-title lang="ko">16강1,김가영 : 한지은</sub-title>
+    <desc lang="ko">NH농협카드 LPBA 챔피언십 26-27
+부제 : 16강1,김가영 : 한지은
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111190000 +0900" stop="20261111203000 +0900" channel="Billiards TV">
+    <title lang="ko">최강의 경기력 (3회)</title>
+    <desc lang="ko">최강의 경기력 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111203000 +0900" stop="20261111223000 +0900" channel="Billiards TV">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R</title>
+    <sub-title lang="ko">2경기,NH농협카드 : 우리금융캐피탈</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R
+부제 : 2경기,NH농협카드 : 우리금융캐피탈
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111223000 +0900" stop="20261112003000 +0900" channel="Billiards TV">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R</title>
+    <sub-title lang="ko">4경기,휴온스 : 브레이커스</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R
+부제 : 4경기,휴온스 : 브레이커스
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112003000 +0900" stop="20261112013000 +0900" channel="Billiards TV">
+    <title lang="ko">초전박살 (18회)</title>
+    <sub-title lang="ko">25-26 웰컴_LPBA</sub-title>
+    <desc lang="ko">초전박살 (18회)
+부제 : 25-26 웰컴_LPBA
+회차 : 18회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.17.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112013000 +0900" stop="20261112023000 +0900" channel="Billiards TV">
+    <title lang="ko">하이런클럽 (3회)</title>
+    <desc lang="ko">하이런클럽 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112023000 +0900" stop="20261112033000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (31회)</title>
+    <desc lang="ko">RE:CUE (31회)
+회차 : 31회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.30.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112033000 +0900" stop="20261112050000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (3회)</title>
+    <desc lang="ko">팀리그 올스타전 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112050000 +0900" stop="20261112060000 +0900" channel="Billiards TV">
+    <title lang="ko">TOP30 베스트샷 스페셜 (3회)</title>
+    <desc lang="ko">TOP30 베스트샷 스페셜 (3회)
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112060000 +0900" stop="20261112070000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (32회)</title>
+    <desc lang="ko">RE:CUE (32회)
+회차 : 32회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.31.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112070000 +0900" stop="20261112083000 +0900" channel="Billiards TV">
+    <title lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (11회)</title>
+    <desc lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (11회)
+회차 : 11회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.10.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112083000 +0900" stop="20261112100000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (4회)</title>
+    <desc lang="ko">팀리그 올스타전 (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112110000 +0900" channel="Billiards TV">
+    <title lang="ko">청춘라이프 (4회)</title>
+    <desc lang="ko">청춘라이프 (4회)
+회차 : 4회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112110000 +0900" stop="20261112123000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 PBA 챔피언십 2025</title>
+    <sub-title lang="ko">128강9,박지호 : 사이그너</sub-title>
+    <desc lang="ko">휴온스 PBA 챔피언십 2025
+부제 : 128강9,박지호 : 사이그너
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112123000 +0900" stop="20261112140000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 LPBA 챔피언십 2025</title>
+    <sub-title lang="ko">16강1,김가영 : 백민주</sub-title>
+    <desc lang="ko">휴온스 LPBA 챔피언십 2025
+부제 : 16강1,김가영 : 백민주
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112140000 +0900" stop="20261112150000 +0900" channel="Billiards TV">
+    <title lang="ko">PBA-RECORDS (4회)</title>
+    <desc lang="ko">PBA-RECORDS (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112150000 +0900" stop="20261112160000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 PBA 챔피언십 26-27</title>
+    <sub-title lang="ko">64강3,유창선 : 강동궁</sub-title>
+    <desc lang="ko">NH농협카드 PBA 챔피언십 26-27
+부제 : 64강3,유창선 : 강동궁
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112160000 +0900" stop="20261112170000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 PBA 챔피언십 26-27</title>
+    <sub-title lang="ko">64강5,김남수 : 조재호</sub-title>
+    <desc lang="ko">NH농협카드 PBA 챔피언십 26-27
+부제 : 64강5,김남수 : 조재호
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112170000 +0900" stop="20261112190000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 LPBA 챔피언십 26-27</title>
+    <sub-title lang="ko">16강3,정수빈 : 임정숙</sub-title>
+    <desc lang="ko">NH농협카드 LPBA 챔피언십 26-27
+부제 : 16강3,정수빈 : 임정숙
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112190000 +0900" stop="20261112203000 +0900" channel="Billiards TV">
+    <title lang="ko">최강의 경기력 (4회)</title>
+    <desc lang="ko">최강의 경기력 (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112203000 +0900" stop="20261112223000 +0900" channel="Billiards TV">
+    <title lang="ko">역전의 명수 (1회)</title>
+    <desc lang="ko">역전의 명수 (1회)
+회차 : 1회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112223000 +0900" stop="20261112230000 +0900" channel="Billiards TV">
+    <title lang="ko">TOP30 베스트샷 (61회)</title>
+    <sub-title lang="ko">26-27 에스와이</sub-title>
+    <desc lang="ko">TOP30 베스트샷 (61회)
+부제 : 26-27 에스와이
+회차 : 61회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.60.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112230000 +0900" stop="20261112233000 +0900" channel="Billiards TV">
+    <title lang="ko">TOP30 베스트샷 (62회)</title>
+    <sub-title lang="ko">26-27 팀리그 화성투어</sub-title>
+    <desc lang="ko">TOP30 베스트샷 (62회)
+부제 : 26-27 팀리그 화성투어
+회차 : 62회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.61.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112233000 +0900" stop="20261113013000 +0900" channel="Billiards TV">
+    <title lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R</title>
+    <sub-title lang="ko">6경기,하림 : 하나카드</sub-title>
+    <desc lang="ko">웰컴저축은행 PBA 팀리그 2026-2027 4R
+부제 : 6경기,하림 : 하나카드
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113013000 +0900" stop="20261113023000 +0900" channel="Billiards TV">
+    <title lang="ko">하이런클럽 (4회)</title>
+    <desc lang="ko">하이런클럽 (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113023000 +0900" stop="20261113033000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (32회)</title>
+    <desc lang="ko">RE:CUE (32회)
+회차 : 32회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.31.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113033000 +0900" stop="20261113050000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (4회)</title>
+    <desc lang="ko">팀리그 올스타전 (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113050000 +0900" stop="20261113060000 +0900" channel="Billiards TV">
+    <title lang="ko">TOP30 베스트샷 스페셜 (4회)</title>
+    <desc lang="ko">TOP30 베스트샷 스페셜 (4회)
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113060000 +0900" stop="20261113070000 +0900" channel="Billiards TV">
+    <title lang="ko">RE:CUE (33회)</title>
+    <desc lang="ko">RE:CUE (33회)
+회차 : 33회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.32.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113070000 +0900" stop="20261113083000 +0900" channel="Billiards TV">
+    <title lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (12회)</title>
+    <desc lang="ko">26-27시즌 TOP PICK [상반기 최고의 투어경기] (12회)
+회차 : 12회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.11.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113083000 +0900" stop="20261113100000 +0900" channel="Billiards TV">
+    <title lang="ko">팀리그 올스타전 (5회)</title>
+    <desc lang="ko">팀리그 올스타전 (5회)
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113100000 +0900" stop="20261113110000 +0900" channel="Billiards TV">
+    <title lang="ko">청춘라이프 (3회)</title>
+    <desc lang="ko">청춘라이프 (3회)
+회차 : 3회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113110000 +0900" stop="20261113120000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 PBA 챔피언십 2025</title>
+    <sub-title lang="ko">128강12,산체스 : 정찬국</sub-title>
+    <desc lang="ko">휴온스 PBA 챔피언십 2025
+부제 : 128강12,산체스 : 정찬국
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113120000 +0900" stop="20261113140000 +0900" channel="Billiards TV">
+    <title lang="ko">휴온스 LPBA 챔피언십 2025</title>
+    <sub-title lang="ko">16강4,강지은 : 김민아</sub-title>
+    <desc lang="ko">휴온스 LPBA 챔피언십 2025
+부제 : 16강4,강지은 : 김민아
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113140000 +0900" stop="20261113150000 +0900" channel="Billiards TV">
+    <title lang="ko">PBA-RECORDS (5회)</title>
+    <desc lang="ko">PBA-RECORDS (5회)
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113150000 +0900" stop="20261113163000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 PBA 챔피언십 26-27</title>
+    <sub-title lang="ko">32강1,이상대 : 정경섭</sub-title>
+    <desc lang="ko">NH농협카드 PBA 챔피언십 26-27
+부제 : 32강1,이상대 : 정경섭
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113163000 +0900" stop="20261113173000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 PBA 챔피언십 26-27</title>
+    <sub-title lang="ko">32강5,체네트 : 강동궁</sub-title>
+    <desc lang="ko">NH농협카드 PBA 챔피언십 26-27
+부제 : 32강5,체네트 : 강동궁
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113173000 +0900" stop="20261113190000 +0900" channel="Billiards TV">
+    <title lang="ko">NH농협카드 LPBA 챔피언십 26-27</title>
+    <sub-title lang="ko">8강1,김가영 : 김보미</sub-title>
+    <desc lang="ko">NH농협카드 LPBA 챔피언십 26-27
+부제 : 8강1,김가영 : 김보미
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113190000 +0900" stop="20261113203000 +0900" channel="Billiards TV">
+    <title lang="ko">최강의 경기력 (5회)</title>
+    <desc lang="ko">최강의 경기력 (5회)
+회차 : 5회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113203000 +0900" stop="20261113230000 +0900" channel="Billiards TV">
+    <title lang="ko">역전의 명수 (2회)</title>
+    <desc lang="ko">역전의 명수 (2회)
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113230000 +0900" stop="20261114000000 +0900" channel="Billiards TV">
+    <title lang="ko">초전박살 (19회)</title>
+    <sub-title lang="ko">25-26 월챔_PBA</sub-title>
+    <desc lang="ko">초전박살 (19회)
+부제 : 25-26 월챔_PBA
+회차 : 19회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.18.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111020000 +0900" stop="20261111030000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">투어직캠 (재)</title>
+    <sub-title lang="ko">2026 LPGA 뷰익 LPGA 상하이 / BMW 레이디스 챔피언십</sub-title>
+    <desc lang="ko">투어직캠 (재)
+부제 : 2026 LPGA 뷰익 LPGA 상하이 / BMW 레이디스 챔피언십
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111030000 +0900" stop="20261111060000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LET 아람코 차이나 챔피언십 (재)</title>
+    <sub-title lang="ko">FR</sub-title>
+    <desc lang="ko">2026 LET 아람코 차이나 챔피언십 (재)
+부제 : FR
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111060000 +0900" stop="20261111073000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)</title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111073000 +0900" stop="20261111083000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SWING CLASS (2회) (재)</title>
+    <desc lang="ko">SWING CLASS (2회) (재)
+방송 : 재방송
+회차 : 2회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111083000 +0900" stop="20261111090000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">투어직캠</title>
+    <sub-title lang="ko">2026 롤렉스시리즈 아부다비 알다르 챔피언십</sub-title>
+    <desc lang="ko">투어직캠
+부제 : 2026 롤렉스시리즈 아부다비 알다르 챔피언십
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111090000 +0900" stop="20261111093000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111093000 +0900" stop="20261111113000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2025 롤렉스 시리즈 최종전 DP월드투어 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">2025 롤렉스 시리즈 최종전 DP월드투어 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111113000 +0900" stop="20261111130000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 PGA투어 월드 와이드 테크놀러지 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">2026 PGA투어 월드 와이드 테크놀러지 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111130000 +0900" stop="20261111143000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)</title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111143000 +0900" stop="20261111150000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111150000 +0900" stop="20261111183000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[유해란 우승] 2026 LPGA 메이저대회 아문디 에비앙 챔피언십 (재)</title>
+    <sub-title lang="ko">FR</sub-title>
+    <desc lang="ko">[유해란 우승] 2026 LPGA 메이저대회 아문디 에비앙 챔피언십 (재)
+부제 : FR
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111183000 +0900" stop="20261111200000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[이소미/임진희 우승] 2025 LPGA 다우 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">[이소미/임진희 우승] 2025 LPGA 다우 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111200000 +0900" stop="20261111210000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">GD LESSON 고덕호 (재)</title>
+    <sub-title lang="ko">장하나-이근호 편</sub-title>
+    <desc lang="ko">GD LESSON 고덕호 (재)
+부제 : 장하나-이근호 편
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111210000 +0900" stop="20261111213000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">투어직캠</title>
+    <sub-title lang="ko">2026 LPGA 토토 재팬 클래식</sub-title>
+    <desc lang="ko">투어직캠
+부제 : 2026 LPGA 토토 재팬 클래식
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111213000 +0900" stop="20261111220000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111220000 +0900" stop="20261111233000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[고진영 우승] 2017 LPGA KEB하나은행 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">[고진영 우승] 2017 LPGA KEB하나은행 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261111233000 +0900" stop="20261112020000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[양희영 우승] 2024 LPGA KPMG 위민스 PGA 챔피언십 (재)</title>
+    <sub-title lang="ko">FR</sub-title>
+    <desc lang="ko">[양희영 우승] 2024 LPGA KPMG 위민스 PGA 챔피언십 (재)
+부제 : FR
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112020000 +0900" stop="20261112030000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">투어직캠 (재)</title>
+    <sub-title lang="ko">2026 LPGA 메이뱅크 챔피언십 / 토토 재팬 클래식</sub-title>
+    <desc lang="ko">투어직캠 (재)
+부제 : 2026 LPGA 메이뱅크 챔피언십 / 토토 재팬 클래식
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112030000 +0900" stop="20261112070000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2025 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)</title>
+    <sub-title lang="ko">FR</sub-title>
+    <desc lang="ko">2025 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)
+부제 : FR
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112070000 +0900" stop="20261112073000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112073000 +0900" stop="20261112083000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SWING CLASS (3회) (재)</title>
+    <desc lang="ko">SWING CLASS (3회) (재)
+방송 : 재방송
+회차 : 3회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112083000 +0900" stop="20261112100000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)</title>
+    <desc lang="ko">2026 LPGA 토토 재팬 클래식 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112120000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">2026 롤렉스 시리즈 아부다비 알다르 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112120000 +0900" stop="20261112123000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112123000 +0900" stop="20261112140000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[고진영 우승] 2018 LPGA ISPS 한다 호주 여자 오픈 하이라이트 (재)</title>
+    <desc lang="ko">[고진영 우승] 2018 LPGA ISPS 한다 호주 여자 오픈 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112140000 +0900" stop="20261112153000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">[황유민 우승] 2025 LPGA 롯데 챔피언십 하이라이트 (재)</title>
+    <desc lang="ko">[황유민 우승] 2025 LPGA 롯데 챔피언십 하이라이트 (재)
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112153000 +0900" stop="20261112160000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf (4회) (재)</title>
+    <desc lang="ko">SPOTIME Golf (4회) (재)
+방송 : 재방송
+회차 : 4회
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112160000 +0900" stop="20261112190000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112190000 +0900" stop="20261112220000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112220000 +0900" stop="20261113010000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)
+부제 : 1R
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113010000 +0900" stop="20261113040000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 디 아니카</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 LPGA 디 아니카
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113040000 +0900" stop="20261113063000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 디 아니카 (재)</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 LPGA 디 아니카 (재)
+부제 : 1R
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113063000 +0900" stop="20261113093000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">SPOTIME Golf 투어 리뷰 2026 LPGA 디 아니카</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">SPOTIME Golf 투어 리뷰 2026 LPGA 디 아니카
+부제 : 1R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113093000 +0900" stop="20261113130000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십 (재)
+부제 : 1R
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113130000 +0900" stop="20261113160000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 디 아니카 (재)</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 LPGA 디 아니카 (재)
+부제 : 1R
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113160000 +0900" stop="20261113190000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십
+부제 : 2R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113190000 +0900" stop="20261113220000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십</title>
+    <sub-title lang="ko">2R</sub-title>
+    <desc lang="ko">2026 롤렉스 시리즈 최종전 DP월드 투어 챔피언십
+부제 : 2R
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113220000 +0900" stop="20261114010000 +0900" channel="SPOTV GOLF PLUS">
+    <title lang="ko">2026 LPGA 디 아니카 (재)</title>
+    <sub-title lang="ko">1R</sub-title>
+    <desc lang="ko">2026 LPGA 디 아니카 (재)
+부제 : 1R
+방송 : 재방송
+장르 : 스포츠
+등급 : 전체 관람가</desc>
+    <category lang="ko">스포츠</category>
+    <category lang="en">Sports</category>
+    <previously-shown />
     <rating system="KR">
       <value>전체 관람가</value>
     </rating>
