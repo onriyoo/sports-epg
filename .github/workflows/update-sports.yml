@@ -1,0 +1,70 @@
+name: Update Sports EPG
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+      timezone: 'Asia/Seoul'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install epg2xml
+        run: |
+          python -m pip install --upgrade pip
+          pip install "epg2xml[curl] @ git+https://github.com/epg2xml/epg2xml.git@v2.8.2"
+
+      - name: Collect sports EPG
+        run: |
+          epg2xml run --config epg2xml_sports.json --channelfile Channel.json --xmlfile sports_update_tmp.xml
+
+      - name: Validate and publish
+        run: |
+          python - <<'PY'
+          import xml.etree.ElementTree as ET
+          import os
+          import shutil
+
+          root = ET.parse("sports_update_tmp.xml").getroot()
+          channels = root.findall("channel")
+          programs = root.findall("programme")
+
+          if len(channels) != 16 or len(programs) < 200:
+              raise SystemExit("EPG 검증 실패")
+
+          for c in channels:
+              cid = c.get("id")
+              count = sum(1 for p in programs if p.get("channel") == cid)
+              if count == 0:
+                  raise SystemExit(f"편성정보 없음: {cid}")
+
+          os.makedirs("backups", exist_ok=True)
+          shutil.copy2("epg_sports.xml", "backups/epg_sports_previous.xml")
+          os.replace("sports_update_tmp.xml", "epg_sports.xml")
+
+          print("검증 성공:", len(channels), "채널,", len(programs), "편성표")
+          PY
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg_sports.xml backups/epg_sports_previous.xml
+          if git diff --cached --quiet; then
+            echo "변경된 EPG 없음"
+          else
+            git commit -m "Update sports EPG"
+            git push
+          fi
