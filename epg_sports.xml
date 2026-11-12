@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-
+<?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="epg2xml v2.8.2">
   <channel id="JTBC SPORTS">
     <display-name>JTBC SPORTS</display-name>
@@ -23930,6 +23928,4270 @@
     <episode-num system="xmltv_ns">0.293.0/0</episode-num>
     <rating system="KR">
       <value>전체 관람가</value>
+    </rating>
+  </programme>
+<channel id="OCN">
+    <display-name>OCN</display-name>
+    <display-name>SK</display-name>
+    <display-name>73</display-name>
+    <display-name>73 OCN</display-name>
+    <display-name>73 SK</display-name>
+  </channel>
+  <channel id="OCN Movies">
+    <display-name>OCN Movies</display-name>
+    <display-name>SK</display-name>
+    <display-name>72</display-name>
+    <display-name>72 OCN Movies</display-name>
+    <display-name>72 SK</display-name>
+  </channel>
+  <channel id="OCN Movies2">
+    <display-name>OCN Movies2</display-name>
+    <display-name>SK</display-name>
+    <display-name>74</display-name>
+    <display-name>74 OCN Movies2</display-name>
+    <display-name>74 SK</display-name>
+  </channel>
+  <channel id="CATCH ON 1">
+    <display-name>CATCH ON 1</display-name>
+    <display-name>SK</display-name>
+    <display-name>70</display-name>
+    <display-name>70 CATCH ON 1</display-name>
+    <display-name>70 SK</display-name>
+  </channel>
+  <channel id="The Movie">
+    <display-name>The Movie</display-name>
+    <display-name>SK</display-name>
+    <display-name>79</display-name>
+    <display-name>79 The Movie</display-name>
+    <display-name>79 SK</display-name>
+  </channel>
+  <channel id="Mplex">
+    <display-name>Mplex</display-name>
+    <display-name>SK</display-name>
+    <display-name>77</display-name>
+    <display-name>77 Mplex</display-name>
+    <display-name>77 SK</display-name>
+  </channel>
+  <channel id="CINETREE">
+    <display-name>CINETREE</display-name>
+    <display-name>SK</display-name>
+    <display-name>81</display-name>
+    <display-name>81 CINETREE</display-name>
+    <display-name>81 SK</display-name>
+  </channel>
+  <programme start="20261112011000 +0900" stop="20261112030000 +0900" channel="OCN">
+    <title lang="ko">모탈컴뱃</title>
+    <desc lang="ko">모탈컴뱃
+장르 : 영화
+등급 : 19세 이상 관람가
+전세계서 모인 무술 고수들이 '모탈 컴뱃'이라는 무술대회에 참가하기 위해 홍콩의 한 부두에서 분위기...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112030000 +0900" stop="20261112053000 +0900" channel="OCN">
+    <title lang="ko">사조영웅전 : 협지대자</title>
+    <desc lang="ko">사조영웅전 : 협지대자
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112053000 +0900" stop="20261112075000 +0900" channel="OCN">
+    <title lang="ko">대도시의 사랑법</title>
+    <desc lang="ko">대도시의 사랑법
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112075000 +0900" stop="20261112101000 +0900" channel="OCN">
+    <title lang="ko">미스트</title>
+    <desc lang="ko">미스트
+장르 : 영화
+등급 : 15세 이상 관람가
+평화로운 호숫가 마을 롱레이크, 어느 날 강력한 비바람이 몰아친 뒤, 기이한 안개가 몰려온다. 데이빗...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112101000 +0900" stop="20261112122000 +0900" channel="OCN">
+    <title lang="ko">시동</title>
+    <desc lang="ko">시동
+장르 : 영화
+등급 : 15세 이상 관람가
+학교도 싫고 집도 싫고 공부는 더더욱 싫다며 '엄마'(염정아)에게 1일 1강스파이크를 버는 반항아 '택일...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112122000 +0900" stop="20261112143000 +0900" channel="OCN">
+    <title lang="ko">1승</title>
+    <desc lang="ko">1승
+장르 : 영화
+등급 : 12세 이상 관람가
+＂그래도 한 번은 이기겠죠?＂ 지도자 생활 평균 승률 10% 미만! 파직, 파면, 파산, 퇴출, 이혼까지 인...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112143000 +0900" stop="20261112165000 +0900" channel="OCN">
+    <title lang="ko">왕과 사는 남자</title>
+    <desc lang="ko">왕과 사는 남자
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112165000 +0900" stop="20261112194000 +0900" channel="OCN">
+    <title lang="ko">듄</title>
+    <desc lang="ko">듄
+장르 : 영화
+등급 : 12세 이상 관람가
+10191년, 아트레이데스 가문의 후계자인 폴(티모시 샬라메)은 시공을 초월한 존재이자 전 우주를 구원할...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112194000 +0900" stop="20261112220000 +0900" channel="OCN">
+    <title lang="ko">마녀 Part2. The Other One</title>
+    <desc lang="ko">마녀 Part2. The Other One
+장르 : 영화
+등급 : 15세 이상 관람가
+'자윤'이 사라진 뒤, 정체불명의 집단의 무차별 습격으로 마녀 프로젝트가 진행되고 있는 '아크'가 초토...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112220000 +0900" stop="20261113002000 +0900" channel="OCN">
+    <title lang="ko">내부자들</title>
+    <desc lang="ko">내부자들
+장르 : 영화
+등급 : 19세 이상 관람가
+＂복수극으로 가자고, 화끈하게＂ 유력한 대통령 후보와 재벌 회장, 그들을 돕는 정치깡패 안상구(이병헌)...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113002000 +0900" stop="20261113013000 +0900" channel="OCN">
+    <title lang="ko">둠</title>
+    <desc lang="ko">둠
+장르 : 영화
+등급 : 19세 이상 관람가
+2026년, 미국 네바다 주 사막에서 유적 탐사를 벌이던 고고학자들이 화성의 고대 도시로 순간 이동 할 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113013000 +0900" stop="20261113034000 +0900" channel="OCN">
+    <title lang="ko">진격의 거인 크로니클</title>
+    <desc lang="ko">진격의 거인 크로니클
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113034000 +0900" stop="20261113053000 +0900" channel="OCN">
+    <title lang="ko">뒤틀린 집</title>
+    <desc lang="ko">뒤틀린 집
+장르 : 영화
+등급 : 15세 이상 관람가
+피치 못할 사정으로 외딴집에 이사 오게 된 가족. 엄마 '명혜'는 이사 온 첫 날부터 이 집이 뒤틀렸다고...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113053000 +0900" stop="20261113072000 +0900" channel="OCN">
+    <title lang="ko">잇 리브스 인사이드</title>
+    <desc lang="ko">잇 리브스 인사이드
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113072000 +0900" stop="20261113094000 +0900" channel="OCN">
+    <title lang="ko">고스트버스터즈: 오싹한 뉴욕</title>
+    <desc lang="ko">고스트버스터즈: 오싹한 뉴욕
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113094000 +0900" stop="20261113124000 +0900" channel="OCN">
+    <title lang="ko">어쩔수가없다(확장판)</title>
+    <desc lang="ko">어쩔수가없다(확장판)
+장르 : 영화
+등급 : 19세 이상 관람가
+'다 이루었다'는 생각이 들 만큼 삶에 만족하던 25년 경력의 제지 전문가 '만수'(이병헌). 아내 '미리'...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113124000 +0900" stop="20261113144000 +0900" channel="OCN">
+    <title lang="ko">트랜스포머 ONE</title>
+    <desc lang="ko">트랜스포머 ONE
+장르 : 영화
+등급 : 전체 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113144000 +0900" stop="20261113170000 +0900" channel="OCN">
+    <title lang="ko">하이파이브</title>
+    <desc lang="ko">하이파이브
+장르 : 영화
+등급 : 15세 이상 관람가
+평범과 비범 사이! 우리가 누구? '하이파이브' 태권소녀 '완서', 작가 지망생 '지성', 프레시 매니저 '...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113170000 +0900" stop="20261113194000 +0900" channel="OCN">
+    <title lang="ko">쇼생크 탈출</title>
+    <desc lang="ko">쇼생크 탈출
+장르 : 영화
+등급 : 12세 이상 관람가
+회계사였던 앤디는 아내와 그녀의 정부를 살해한 혐의로 종신형을 선고받고 교도소에 들어간다. 적응을 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113194000 +0900" stop="20261113220000 +0900" channel="OCN">
+    <title lang="ko">베테랑 2</title>
+    <desc lang="ko">베테랑 2
+장르 : 영화
+등급 : 15세 이상 관람가
+가족들도 못 챙기고 밤낮없이 범죄들과 싸우는 베테랑 형사 '서도철'(황정민)과 강력범죄수사대 형사들....</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113220000 +0900" stop="20261114002000 +0900" channel="OCN">
+    <title lang="ko">만약에 우리</title>
+    <desc lang="ko">만약에 우리
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114002000 +0900" stop="20261114020000 +0900" channel="OCN">
+    <title lang="ko">귀신 부르는 앱:영</title>
+    <desc lang="ko">귀신 부르는 앱:영
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114020000 +0900" stop="20261114043000 +0900" channel="OCN">
+    <title lang="ko">더 수어사이드 스쿼드</title>
+    <desc lang="ko">더 수어사이드 스쿼드
+장르 : 영화
+등급 : 19세 이상 관람가
+살고 싶다면 무조건 성공시켜라! 최강 우주 빌런에 맞선, 자살특공대에게 맡겨진 '더' 대책 없는 작전. ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114043000 +0900" stop="20261114062000 +0900" channel="OCN">
+    <title lang="ko">비열한 도시</title>
+    <desc lang="ko">비열한 도시
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114062000 +0900" stop="20261114083000 +0900" channel="OCN">
+    <title lang="ko">세인트 세이야: 더 비기닝</title>
+    <desc lang="ko">세인트 세이야: 더 비기닝
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114083000 +0900" stop="20261114110000 +0900" channel="OCN">
+    <title lang="ko">퍼시픽 림</title>
+    <desc lang="ko">퍼시픽 림
+장르 : 영화
+등급 : 12세 이상 관람가
+2025년, 일본 태평양 연안의 심해에 커다란 균열이 일어난다. 정체를 알 수 없었던 이 곳은 지구와 우주...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114110000 +0900" stop="20261114125000 +0900" channel="OCN">
+    <title lang="ko">귀신 부르는 앱:영</title>
+    <desc lang="ko">귀신 부르는 앱:영
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114125000 +0900" stop="20261114145000 +0900" channel="OCN">
+    <title lang="ko">하트맨</title>
+    <desc lang="ko">하트맨
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114145000 +0900" stop="20261114172000 +0900" channel="OCN">
+    <title lang="ko">투모로우 워</title>
+    <desc lang="ko">투모로우 워
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114172000 +0900" stop="20261114194000 +0900" channel="OCN">
+    <title lang="ko">만약에 우리</title>
+    <desc lang="ko">만약에 우리
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114194000 +0900" stop="20261114223000 +0900" channel="OCN">
+    <title lang="ko">한산 리덕스</title>
+    <desc lang="ko">한산 리덕스
+장르 : 영화
+등급 : 12세 이상 관람가
+1592년 4월, 조선은 임진왜란 발발 후 단 15일 만에 왜군에 한양을 빼앗기며 절체절명의 위기에 놓인다....</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114223000 +0900" stop="20261115004000 +0900" channel="OCN">
+    <title lang="ko">범죄도시</title>
+    <desc lang="ko">범죄도시
+장르 : 영화
+등급 : 19세 이상 관람가
+2004년 서울... 하얼빈에서 넘어와 단숨에 기존 조직들을 장악하고 가장 강력한 세력인 춘식이파 보스 '...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112001000 +0900" stop="20261112024000 +0900" channel="OCN Movies">
+    <title lang="ko">불한당:나쁜 놈들의 세상</title>
+    <desc lang="ko">불한당:나쁜 놈들의 세상
+장르 : 영화
+등급 : 19세 이상 관람가
+범죄조직의 1인자를 노리는 재호와 세상 무서운 것 없는 패기 넘치는 신참 현수는 교도소에서 만나 서로...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112024000 +0900" stop="20261112055000 +0900" channel="OCN Movies">
+    <title lang="ko">스카페이스</title>
+    <desc lang="ko">스카페이스
+장르 : 영화
+등급 : 19세 이상 관람가
+1980년 5월 쿠바가 마리엘 항을 개항하여 반 카스트로 지지자들이 미국 후로리다 반도로 입항한다. 토니...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112055000 +0900" stop="20261112080000 +0900" channel="OCN Movies">
+    <title lang="ko">착신아리</title>
+    <desc lang="ko">착신아리
+장르 : 영화
+등급 : 15세 이상 관람가
+유미는 친구들과 미팅을 나간다. 거기서 상대방 남자들과 같이 놀러가기로 하고 휴대폰에 서로의 전화번...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112080000 +0900" stop="20261112101000 +0900" channel="OCN Movies">
+    <title lang="ko">끝, 새로운 시작</title>
+    <desc lang="ko">끝, 새로운 시작
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112101000 +0900" stop="20261112124000 +0900" channel="OCN Movies">
+    <title lang="ko">마녀</title>
+    <desc lang="ko">마녀
+장르 : 영화
+등급 : 15세 이상 관람가
+시설에서 수많은 이들이 죽은 의문의 사고. 그날 밤 홀로 탈출한 후 모든 기억을 잃고 살아온 고등학생 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112124000 +0900" stop="20261112144000 +0900" channel="OCN Movies">
+    <title lang="ko">정직한 후보2</title>
+    <desc lang="ko">정직한 후보2
+장르 : 영화
+등급 : 12세 이상 관람가
+서울시장 선거에서 떨어지며 쫄딱 망한 백수가 된 '주상숙'은 우연히 바다에 빠진 한 청년을 구한 일이 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112144000 +0900" stop="20261112173000 +0900" channel="OCN Movies">
+    <title lang="ko">마스터</title>
+    <desc lang="ko">마스터
+장르 : 영화
+등급 : 15세 이상 관람가
+화려한 언변, 사람을 현혹하는 재능, 정관계를 넘나드는 인맥으로 수만 명 회원들에게 사기를 치며 승승...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112173000 +0900" stop="20261112195000 +0900" channel="OCN Movies">
+    <title lang="ko">귀멸의 칼날:환락의 거리 잠입편</title>
+    <desc lang="ko">귀멸의 칼날:환락의 거리 잠입편
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112195000 +0900" stop="20261112220000 +0900" channel="OCN Movies">
+    <title lang="ko">귀멸의 칼날:환락의 거리 결전편</title>
+    <desc lang="ko">귀멸의 칼날:환락의 거리 결전편
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112220000 +0900" stop="20261113001000 +0900" channel="OCN Movies">
+    <title lang="ko">30일</title>
+    <desc lang="ko">30일
+장르 : 영화
+등급 : 15세 이상 관람가
+＂완벽한 저에게 신은 저 여자를 던지셨죠＂ 지성과 외모 그리고 찌질함까지 타고난, '정열'(강하늘). ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113001000 +0900" stop="20261113022000 +0900" channel="OCN Movies">
+    <title lang="ko">더 프레데터</title>
+    <desc lang="ko">더 프레데터
+장르 : 영화
+등급 : 19세 이상 관람가
+다른 종의 DNA를 이용해 더욱 영리하고 치명적으로 진화한 외계 빌런 '프레데터'. 더욱 무자비해진 그의...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113022000 +0900" stop="20261113040000 +0900" channel="OCN Movies">
+    <title lang="ko">풍운: 마도천사</title>
+    <desc lang="ko">풍운: 마도천사
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113040000 +0900" stop="20261113060000 +0900" channel="OCN Movies">
+    <title lang="ko">폭락</title>
+    <desc lang="ko">폭락
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113060000 +0900" stop="20261113075000 +0900" channel="OCN Movies">
+    <title lang="ko">아웃 오브 다크니스</title>
+    <desc lang="ko">아웃 오브 다크니스
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113075000 +0900" stop="20261113101000 +0900" channel="OCN Movies">
+    <title lang="ko">오션스 일레븐</title>
+    <desc lang="ko">오션스 일레븐
+장르 : 영화
+등급 : 12세 이상 관람가
+사기혐의로 4년을 복역한 대니 오션은 출감하자마자 새로운 한탕을 계획한다. 한 번에 카지노 세 곳을 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113101000 +0900" stop="20261113123000 +0900" channel="OCN Movies">
+    <title lang="ko">박하사탕</title>
+    <desc lang="ko">박하사탕
+장르 : 영화
+등급 : 19세 이상 관람가
+주인공 김영호가 '가리봉 봉우회'의 야유회 장소에 느닷없이 나타난다. 20년 전 첫사랑의 여인 순임과 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113123000 +0900" stop="20261113143000 +0900" channel="OCN Movies">
+    <title lang="ko">원더</title>
+    <desc lang="ko">원더
+장르 : 영화
+등급 : 전체 관람가
+누구보다 위트 있고 호기심 많은 매력 부자 '어기'(제이콥 트렘블레이). 하지만 남들과 다른 외모로 태...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113143000 +0900" stop="20261113171000 +0900" channel="OCN Movies">
+    <title lang="ko">밀정</title>
+    <desc lang="ko">밀정
+장르 : 영화
+등급 : 15세 이상 관람가
+1920년대 일제강점기. 조선인 출신 일본 경찰 이정출은 무장독립운동 단체 의열단의 뒤를 캐라는 특명으...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113171000 +0900" stop="20261113201000 +0900" channel="OCN Movies">
+    <title lang="ko">인터스텔라</title>
+    <desc lang="ko">인터스텔라
+장르 : 영화
+등급 : 12세 이상 관람가
+세계 각국의 정부와 경제가 완전히 붕괴된 미래가 다가온다. 지난 20세기에 범한 잘못이 전 세계적인 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113201000 +0900" stop="20261113220000 +0900" channel="OCN Movies">
+    <title lang="ko">베놈:라스트댄스</title>
+    <desc lang="ko">베놈:라스트댄스
+장르 : 영화
+등급 : 15세 이상 관람가
+죽음이 우리를 갈라놓을 때까지! 환상의 케미스트리의 에디 브록(톰 하디)과 그의 심비오트 베놈은 그들...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113220000 +0900" stop="20261114000000 +0900" channel="OCN Movies">
+    <title lang="ko">윗집 사람들</title>
+    <desc lang="ko">윗집 사람들
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114000000 +0900" stop="20261114022000 +0900" channel="OCN Movies">
+    <title lang="ko">신세계</title>
+    <desc lang="ko">신세계
+장르 : 영화
+등급 : 19세 이상 관람가
+경찰청 수사 기획과 강과장은 범죄 조직 골드문의 세력이 확장되자 신입경찰 이자성에게 잠입 수사를 명...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114022000 +0900" stop="20261114042000 +0900" channel="OCN Movies">
+    <title lang="ko">지오스톰</title>
+    <desc lang="ko">지오스톰
+장르 : 영화
+등급 : 12세 이상 관람가
+가까운 미래, 기후변화로 인해 지구에 갖가지 자연재해가 속출한다. 세계 정부 연합은 더 이상의 재난...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114042000 +0900" stop="20261114070000 +0900" channel="OCN Movies">
+    <title lang="ko">셔터 아일랜드</title>
+    <desc lang="ko">셔터 아일랜드
+장르 : 영화
+등급 : 15세 이상 관람가
+보스턴 셔터아일랜드의 정신병원에서 환자가 실종되는 사건이 발생한다. 연방보안관 테디 다니엘스(레오...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114070000 +0900" stop="20261114090000 +0900" channel="OCN Movies">
+    <title lang="ko">천박사 퇴마 연구소: 설경의 비밀</title>
+    <desc lang="ko">천박사 퇴마 연구소: 설경의 비밀
+장르 : 영화
+등급 : 15세 이상 관람가
+대대로 마을을 지켜 온 당주집 장손이지만 정작 귀신은 믿지 않는 가짜 퇴마사 '천박사'(강동원). 사...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114090000 +0900" stop="20261114111000 +0900" channel="OCN Movies">
+    <title lang="ko">007 퀀텀 오브 솔러스</title>
+    <desc lang="ko">007 퀀텀 오브 솔러스
+장르 : 영화
+등급 : 15세 이상 관람가
+카지노 로얄에서 성공적으로 임무를 완수한 007 제임스본드, 하지만 첫사랑의 배신과 죽음은 그를 복수...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114111000 +0900" stop="20261114132000 +0900" channel="OCN Movies">
+    <title lang="ko">올드</title>
+    <desc lang="ko">올드
+장르 : 영화
+등급 : 15세 이상 관람가
+아침에는 아이 오후에는 어른 저녁에는 노인 죽음은 시간의 문제다</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114132000 +0900" stop="20261114154000 +0900" channel="OCN Movies">
+    <title lang="ko">30일</title>
+    <desc lang="ko">30일
+장르 : 영화
+등급 : 15세 이상 관람가
+＂완벽한 저에게 신은 저 여자를 던지셨죠＂ 지성과 외모 그리고 찌질함까지 타고난, '정열'(강하늘). ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114154000 +0900" stop="20261114174000 +0900" channel="OCN Movies">
+    <title lang="ko">베놈:라스트댄스</title>
+    <desc lang="ko">베놈:라스트댄스
+장르 : 영화
+등급 : 15세 이상 관람가
+죽음이 우리를 갈라놓을 때까지! 환상의 케미스트리의 에디 브록(톰 하디)과 그의 심비오트 베놈은 그들...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114174000 +0900" stop="20261114200000 +0900" channel="OCN Movies">
+    <title lang="ko">아쿠아맨과 로스트 킹덤</title>
+    <desc lang="ko">아쿠아맨과 로스트 킹덤
+장르 : 영화
+등급 : 12세 이상 관람가
+아틀란티스 왕국을 이끌 왕의 자리에 오른 '아쿠아맨'. 그 앞에 '블랙 만타'가 세상을 뒤흔들 강력한 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114200000 +0900" stop="20261114220000 +0900" channel="OCN Movies">
+    <title lang="ko">3일의 휴가</title>
+    <desc lang="ko">3일의 휴가
+장르 : 영화
+등급 : 12세 이상 관람가
+＂따님은 어머님을 보거나 목소리를 들을 수 없고요. 휴가 동안 좋은 기억만 담고 오시면 됩니다.＂ 죽...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114220000 +0900" stop="20261115002000 +0900" channel="OCN Movies">
+    <title lang="ko">아수라</title>
+    <desc lang="ko">아수라
+장르 : 영화
+등급 : 19세 이상 관람가
+강력계 형사 한도경은 이권과 성공을 위해 각종 범죄를 저지르는 악덕시장 박성배의 뒷일을 처리해주는 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112013000 +0900" stop="20261112033000 +0900" channel="OCN Movies2">
+    <title lang="ko">암수살인</title>
+    <desc lang="ko">암수살인
+장르 : 영화
+등급 : 15세 이상 관람가
+＂일곱, 총 일곱 명 입니다. 제가 죽인 사람들예.＂ 수감된 살인범 강태오(주지훈)는 형사 김형민(김윤석)...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112033000 +0900" stop="20261112043000 +0900" channel="OCN Movies2">
+    <title lang="ko">와이 우먼 킬 (7회)</title>
+    <desc lang="ko">와이 우먼 킬 (7회)
+회차 : 7회
+장르 : 드라마
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112043000 +0900" stop="20261112053000 +0900" channel="OCN Movies2">
+    <title lang="ko">와이 우먼 킬 (8회)</title>
+    <desc lang="ko">와이 우먼 킬 (8회)
+회차 : 8회
+장르 : 드라마
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112053000 +0900" stop="20261112073000 +0900" channel="OCN Movies2">
+    <title lang="ko">사라진 밤</title>
+    <desc lang="ko">사라진 밤
+장르 : 영화
+등급 : 15세 이상 관람가
+아내를 살해하고 완전범죄를 계획한 남편. 몇 시간 후, 국과수 사체보관실에서 그녀의 시체가 흔적도 없...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112073000 +0900" stop="20261112100000 +0900" channel="OCN Movies2">
+    <title lang="ko">블라인드 사이드</title>
+    <desc lang="ko">블라인드 사이드
+장르 : 영화
+등급 : 12세 이상 관람가
+어린 시절 약물 중독에 걸린 엄마와 강제로 헤어진 후, 여러 가정을 전전하며 커가던 ‘마이클 오어’. ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112113000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (7회)</title>
+    <desc lang="ko">프로보노 (7회)
+회차 : 7회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112113000 +0900" stop="20261112131000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (8회)</title>
+    <desc lang="ko">프로보노 (8회)
+회차 : 8회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112131000 +0900" stop="20261112145000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (9회)</title>
+    <desc lang="ko">프로보노 (9회)
+회차 : 9회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112145000 +0900" stop="20261112172000 +0900" channel="OCN Movies2">
+    <title lang="ko">지금 만나러 갑니다</title>
+    <desc lang="ko">지금 만나러 갑니다
+장르 : 영화
+등급 : 12세 이상 관람가
+비가 오는 날 다시 돌아오겠다는 믿기 힘든 약속을 남기고 세상을 떠난 '수아'. 그로부터 1년 뒤 장마가...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112172000 +0900" stop="20261112191000 +0900" channel="OCN Movies2">
+    <title lang="ko">허큘리스</title>
+    <desc lang="ko">허큘리스
+장르 : 영화
+등급 : 15세 이상 관람가
+네메안의 사자와 지옥의 개들을 맨손으로 물리친 허큘리스는 충실한 추종자들과 방랑하는 용병이 되어 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112191000 +0900" stop="20261112210000 +0900" channel="OCN Movies2">
+    <title lang="ko">타이탄</title>
+    <desc lang="ko">타이탄
+장르 : 영화
+등급 : 15세 이상 관람가
+인간 세상이 혼란과 고통을 겪게 된다. 바로 신들의 왕인 제우스와 그의 전지 전능함을 질투한 지옥의 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112210000 +0900" stop="20261112232000 +0900" channel="OCN Movies2">
+    <title lang="ko">원라인</title>
+    <desc lang="ko">원라인
+장르 : 영화
+등급 : 15세 이상 관람가
+평범했던 대학생 '민재'는 모든 걸 속여 은행 돈을 빼내는, 일명 '작업 대출'계 전설의 베테랑 '장 과장...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112232000 +0900" stop="20261113012000 +0900" channel="OCN Movies2">
+    <title lang="ko">악질경찰</title>
+    <desc lang="ko">악질경찰
+장르 : 영화
+등급 : 19세 이상 관람가
+＂나보다 더 나쁜 놈을 만났다＂ 뒷돈은 챙기고, 비리는 눈감고, 범죄는 사주하는 악질경찰 조필호(이선...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113012000 +0900" stop="20261113033000 +0900" channel="OCN Movies2">
+    <title lang="ko">해바라기</title>
+    <desc lang="ko">해바라기
+장르 : 영화
+등급 : 15세 이상 관람가
+고교 중퇴 후 맨주먹으로 거리의 양아치들을 싹 쓸어버렸던 오태식(김래원). 술먹으면 개가 되고 싸움을...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113033000 +0900" stop="20261113043000 +0900" channel="OCN Movies2">
+    <title lang="ko">와이 우먼 킬 (9회)</title>
+    <desc lang="ko">와이 우먼 킬 (9회)
+회차 : 9회
+장르 : 드라마
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.8.0/0</episode-num>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113043000 +0900" stop="20261113055000 +0900" channel="OCN Movies2">
+    <title lang="ko">와이 우먼 킬 (10회)</title>
+    <desc lang="ko">와이 우먼 킬 (10회)
+회차 : 10회
+장르 : 드라마
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113055000 +0900" stop="20261113075000 +0900" channel="OCN Movies2">
+    <title lang="ko">진삼국무쌍</title>
+    <desc lang="ko">진삼국무쌍
+장르 : 영화
+등급 : 15세 이상 관람가
+한나라 말기, 황건적의 난을 틈타 황궁을 장악한 동탁. 그의 폭정으로 인해 백성들의 고통은 극에 달하...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113075000 +0900" stop="20261113100000 +0900" channel="OCN Movies2">
+    <title lang="ko">압꾸정</title>
+    <desc lang="ko">압꾸정
+장르 : 영화
+등급 : 12세 이상 관람가
+샘솟는 사업 아이디어와 타고난 말빨의 압구정 토박이 '대국'(마동석)은 한때 잘나가던 실력 TOP 성형외...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113100000 +0900" stop="20261113111000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (10회)</title>
+    <desc lang="ko">프로보노 (10회)
+회차 : 10회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.9.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113111000 +0900" stop="20261113124000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (11회)</title>
+    <desc lang="ko">프로보노 (11회)
+회차 : 11회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.10.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113124000 +0900" stop="20261113142000 +0900" channel="OCN Movies2">
+    <title lang="ko">프로보노 (12회)</title>
+    <desc lang="ko">프로보노 (12회)
+회차 : 12회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.11.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113142000 +0900" stop="20261113171000 +0900" channel="OCN Movies2">
+    <title lang="ko">원더우먼 1984</title>
+    <desc lang="ko">원더우먼 1984
+장르 : 영화
+등급 : 12세 이상 관람가
+1984년 모든 것이 활기찬 시대, 다이애나 프린스는 고고학자로서 인간들 사이에서 조용히 살고 있다. 단...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113171000 +0900" stop="20261113190000 +0900" channel="OCN Movies2">
+    <title lang="ko">목스박</title>
+    <desc lang="ko">목스박
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113190000 +0900" stop="20261113211000 +0900" channel="OCN Movies2">
+    <title lang="ko">담보</title>
+    <desc lang="ko">담보
+장르 : 영화
+등급 : 12세 이상 관람가
+1993년 인천 거칠고 까칠한 사채업자 두석(성동일)과 종배(김희원)는 떼인 돈 받으러 갔다가 얼떨결에 9...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113211000 +0900" stop="20261113233000 +0900" channel="OCN Movies2">
+    <title lang="ko">고지전</title>
+    <desc lang="ko">고지전
+장르 : 영화
+등급 : 15세 이상 관람가
+1953년 2월, 휴전협상이 난항을 거듭하는 가운데 교착전이 한창인 동부전선 최전방 애록고지에서 전사한...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113233000 +0900" stop="20261114014000 +0900" channel="OCN Movies2">
+    <title lang="ko">터미네이터:다크 페이트</title>
+    <desc lang="ko">터미네이터:다크 페이트
+장르 : 영화
+등급 : 15세 이상 관람가
+심판의 날 그 후, 뒤바뀐 미래 새로운 인류의 희망 '대니'(나탈리아 레이즈)를 지키기 위해 슈퍼 솔져 '...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114014000 +0900" stop="20261114040000 +0900" channel="OCN Movies2">
+    <title lang="ko">불꽃처럼 나비처럼</title>
+    <desc lang="ko">불꽃처럼 나비처럼
+장르 : 영화
+등급 : 19세 이상 관람가
+어둠속에서 존재감 없이 살아가는 자객 무명은 어느 날, 자신과 너무나 다른 여인 자영을 만나게 된다. ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114040000 +0900" stop="20261114065000 +0900" channel="OCN Movies2">
+    <title lang="ko">군함도:감독판</title>
+    <desc lang="ko">군함도:감독판
+장르 : 영화
+등급 : 15세 이상 관람가
+1945년 일제강점기. 경성 반도호텔 악단장 '강옥'(황정민)과 그의 하나뿐인 딸 '소희'(김수안). 그리고 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114065000 +0900" stop="20261114090000 +0900" channel="OCN Movies2">
+    <title lang="ko">암살교실</title>
+    <desc lang="ko">암살교실
+장르 : 영화
+등급 : 12세 이상 관람가
+쿠누기가오카 중학교 최악의 반 3-E반에 정체불명의 문어 모양의 괴물이 담임선생님이라며 나타났다. 정...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114090000 +0900" stop="20261114110000 +0900" channel="OCN Movies2">
+    <title lang="ko">동네사람들</title>
+    <desc lang="ko">동네사람들
+장르 : 영화
+등급 : 15세 이상 관람가
+여고생이 사라졌지만 너무나 평온한 시골의 한적한 마을, 기간제 교사로 새로 부임 온 외지 출신 체육교...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114110000 +0900" stop="20261114131000 +0900" channel="OCN Movies2">
+    <title lang="ko">터미네이터</title>
+    <desc lang="ko">터미네이터
+장르 : 영화
+등급 : 15세 이상 관람가
+로스앤젤레스의 어두운 밤, 밝은 섬광과 함께 미래세계에서 터미네이터가 도착한다. 반은 인간 반은 기...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114131000 +0900" stop="20261114155000 +0900" channel="OCN Movies2">
+    <title lang="ko">터미네이터 2</title>
+    <desc lang="ko">터미네이터 2
+장르 : 영화
+등급 : 15세 이상 관람가
+터미네이터의 습격을 받고 자신의 운명을 깨달았던 사라 코너는 전편에서 자신을 구하러 왔다 목숨을 잃...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114155000 +0900" stop="20261114181000 +0900" channel="OCN Movies2">
+    <title lang="ko">터미네이터:다크 페이트</title>
+    <desc lang="ko">터미네이터:다크 페이트
+장르 : 영화
+등급 : 15세 이상 관람가
+심판의 날 그 후, 뒤바뀐 미래 새로운 인류의 희망 '대니'(나탈리아 레이즈)를 지키기 위해 슈퍼 솔져 '...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114181000 +0900" stop="20261114201000 +0900" channel="OCN Movies2">
+    <title lang="ko">도어락</title>
+    <desc lang="ko">도어락
+장르 : 영화
+등급 : 15세 이상 관람가
+오피스텔에 혼자 살고 있는 평범한 직장인 경민(공효진). 퇴근 후 집에 돌아온 경민은 원룸의 도어락 덮...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114201000 +0900" stop="20261114223000 +0900" channel="OCN Movies2">
+    <title lang="ko">탑 건:매버릭</title>
+    <desc lang="ko">탑 건:매버릭
+장르 : 영화
+등급 : 15세 이상 관람가
+최고의 파일럿이자 전설적인 인물 매버릭(톰 크루즈)은 자신이 졸업한 훈련학교 교관으로 발탁된다. 그...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114223000 +0900" stop="20261115002000 +0900" channel="OCN Movies2">
+    <title lang="ko">나는 전설이다</title>
+    <desc lang="ko">나는 전설이다
+장르 : 영화
+등급 : 12세 이상 관람가
+2012년, 인류의 멸망. 2012년, 전 인류가 멸망한 가운데 과학자 로버트 네빌(윌 스미스)만이 살아남는다...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112005000 +0900" stop="20261112023000 +0900" channel="CATCH ON 1">
+    <title lang="ko">잠금:셧 다운</title>
+    <desc lang="ko">잠금:셧 다운
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112023000 +0900" stop="20261112043500 +0900" channel="CATCH ON 1">
+    <title lang="ko">다이 마이 러브</title>
+    <desc lang="ko">다이 마이 러브
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112043500 +0900" stop="20261112060500 +0900" channel="CATCH ON 1">
+    <title lang="ko">잠입:클라라와 도둑들</title>
+    <desc lang="ko">잠입:클라라와 도둑들
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112060500 +0900" stop="20261112082500 +0900" channel="CATCH ON 1">
+    <title lang="ko">센티멘탈 밸류</title>
+    <desc lang="ko">센티멘탈 밸류
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112082500 +0900" stop="20261112102500 +0900" channel="CATCH ON 1">
+    <title lang="ko">시라트</title>
+    <desc lang="ko">시라트
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112102500 +0900" stop="20261112120000 +0900" channel="CATCH ON 1">
+    <title lang="ko">어펙션</title>
+    <desc lang="ko">어펙션
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112120000 +0900" stop="20261112135000 +0900" channel="CATCH ON 1">
+    <title lang="ko">넘버원</title>
+    <desc lang="ko">넘버원
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112135000 +0900" stop="20261112153000 +0900" channel="CATCH ON 1">
+    <title lang="ko">머즐 2:늑대의 도시</title>
+    <desc lang="ko">머즐 2:늑대의 도시
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112153000 +0900" stop="20261112171000 +0900" channel="CATCH ON 1">
+    <title lang="ko">살목지</title>
+    <desc lang="ko">살목지
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112171000 +0900" stop="20261112192000 +0900" channel="CATCH ON 1">
+    <title lang="ko">레버런스</title>
+    <desc lang="ko">레버런스
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112192000 +0900" stop="20261112210500 +0900" channel="CATCH ON 1">
+    <title lang="ko">그린랜드 2:마이그레이션</title>
+    <desc lang="ko">그린랜드 2:마이그레이션
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112210500 +0900" stop="20261112230000 +0900" channel="CATCH ON 1">
+    <title lang="ko">백룸</title>
+    <desc lang="ko">백룸
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112230000 +0900" stop="20261113011000 +0900" channel="CATCH ON 1">
+    <title lang="ko">군체</title>
+    <desc lang="ko">군체
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113011000 +0900" stop="20261113024500 +0900" channel="CATCH ON 1">
+    <title lang="ko">노멀</title>
+    <desc lang="ko">노멀
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113024500 +0900" stop="20261113043000 +0900" channel="CATCH ON 1">
+    <title lang="ko">데인저러스 애니멀스</title>
+    <desc lang="ko">데인저러스 애니멀스
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113043000 +0900" stop="20261113060500 +0900" channel="CATCH ON 1">
+    <title lang="ko">프로젝트 아스트로</title>
+    <desc lang="ko">프로젝트 아스트로
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113060500 +0900" stop="20261113074500 +0900" channel="CATCH ON 1">
+    <title lang="ko">언더커버 대디</title>
+    <desc lang="ko">언더커버 대디
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113074500 +0900" stop="20261113094000 +0900" channel="CATCH ON 1">
+    <title lang="ko">쉘터</title>
+    <desc lang="ko">쉘터
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113094000 +0900" stop="20261113112500 +0900" channel="CATCH ON 1">
+    <title lang="ko">그린랜드 2:마이그레이션</title>
+    <desc lang="ko">그린랜드 2:마이그레이션
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113112500 +0900" stop="20261113132000 +0900" channel="CATCH ON 1">
+    <title lang="ko">백룸</title>
+    <desc lang="ko">백룸
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113132000 +0900" stop="20261113162500 +0900" channel="CATCH ON 1">
+    <title lang="ko">몬테크리스토 백작</title>
+    <desc lang="ko">몬테크리스토 백작
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113162500 +0900" stop="20261113181500 +0900" channel="CATCH ON 1">
+    <title lang="ko">눈동자</title>
+    <desc lang="ko">눈동자
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113181500 +0900" stop="20261113194000 +0900" channel="CATCH ON 1">
+    <title lang="ko">현상수배</title>
+    <desc lang="ko">현상수배
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113194000 +0900" stop="20261113212500 +0900" channel="CATCH ON 1">
+    <title lang="ko">와일드캣</title>
+    <desc lang="ko">와일드캣
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113212500 +0900" stop="20261113230000 +0900" channel="CATCH ON 1">
+    <title lang="ko">이상한 과자가게 전천당</title>
+    <desc lang="ko">이상한 과자가게 전천당
+장르 : 영화
+등급 : 전체 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113230000 +0900" stop="20261114004000 +0900" channel="CATCH ON 1">
+    <title lang="ko">8번 출구</title>
+    <desc lang="ko">8번 출구
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114004000 +0900" stop="20261114023500 +0900" channel="CATCH ON 1">
+    <title lang="ko">호컴</title>
+    <desc lang="ko">호컴
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114023500 +0900" stop="20261114042000 +0900" channel="CATCH ON 1">
+    <title lang="ko">스트레인지 달링</title>
+    <desc lang="ko">스트레인지 달링
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114042000 +0900" stop="20261114060000 +0900" channel="CATCH ON 1">
+    <title lang="ko">블랙미션</title>
+    <desc lang="ko">블랙미션
+장르 : 영화
+등급 : 15세 이상 관람가
+전직 CIA 지부장 벤 멀로이는 눈앞의 폭발 사고로 아내를 잃게 되는데, 머지않아 CIA 요원인 아내의 죽...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114060000 +0900" stop="20261114074000 +0900" channel="CATCH ON 1">
+    <title lang="ko">메소드연기</title>
+    <desc lang="ko">메소드연기
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114074000 +0900" stop="20261114091000 +0900" channel="CATCH ON 1">
+    <title lang="ko">적인걸:천궁의 비밀</title>
+    <desc lang="ko">적인걸:천궁의 비밀
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114091000 +0900" stop="20261114104500 +0900" channel="CATCH ON 1">
+    <title lang="ko">여행과 나날</title>
+    <desc lang="ko">여행과 나날
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114104500 +0900" stop="20261114123000 +0900" channel="CATCH ON 1">
+    <title lang="ko">데인저러스 애니멀스</title>
+    <desc lang="ko">데인저러스 애니멀스
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114123000 +0900" stop="20261114141000 +0900" channel="CATCH ON 1">
+    <title lang="ko">8번 출구</title>
+    <desc lang="ko">8번 출구
+장르 : 영화
+등급 : 12세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114141000 +0900" stop="20261114154500 +0900" channel="CATCH ON 1">
+    <title lang="ko">잠입:클라라와 도둑들</title>
+    <desc lang="ko">잠입:클라라와 도둑들
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114154500 +0900" stop="20261114172000 +0900" channel="CATCH ON 1">
+    <title lang="ko">노멀</title>
+    <desc lang="ko">노멀
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114172000 +0900" stop="20261114191500 +0900" channel="CATCH ON 1">
+    <title lang="ko">호컴</title>
+    <desc lang="ko">호컴
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114191500 +0900" stop="20261114205000 +0900" channel="CATCH ON 1">
+    <title lang="ko">어펙션</title>
+    <desc lang="ko">어펙션
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114205000 +0900" stop="20261114230000 +0900" channel="CATCH ON 1">
+    <title lang="ko">군체</title>
+    <desc lang="ko">군체
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114230000 +0900" stop="20261115005500 +0900" channel="CATCH ON 1">
+    <title lang="ko">백룸</title>
+    <desc lang="ko">백룸
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112005000 +0900" stop="20261112015000 +0900" channel="The Movie">
+    <title lang="ko">아드레날린 24</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">아드레날린 24
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+눈앞이 어질 거리고 걸을 수가 없다. 정말로 심장이 멎어가고 있다! 이제 청부 살인 일도 그만두고 귀여...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112015000 +0900" stop="20261112024000 +0900" channel="The Movie">
+    <title lang="ko">아드레날린 24</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">아드레날린 24
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+눈앞이 어질 거리고 걸을 수가 없다. 정말로 심장이 멎어가고 있다! 이제 청부 살인 일도 그만두고 귀여...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112024000 +0900" stop="20261112033000 +0900" channel="The Movie">
+    <title lang="ko">타워</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">타워
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+초고층 주상복합빌딩 타워스카이의 시설관리 팀장인 싱글대디 대호는 사랑하는 딸 하나와 함께 멋진 크...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112033000 +0900" stop="20261112042000 +0900" channel="The Movie">
+    <title lang="ko">타워</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">타워
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+초고층 주상복합빌딩 타워스카이의 시설관리 팀장인 싱글대디 대호는 사랑하는 딸 하나와 함께 멋진 크...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112042000 +0900" stop="20261112045000 +0900" channel="The Movie">
+    <title lang="ko">타워</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">타워
+부제 : 3부
+장르 : 영화
+등급 : 15세 이상 관람가
+초고층 주상복합빌딩 타워스카이의 시설관리 팀장인 싱글대디 대호는 사랑하는 딸 하나와 함께 멋진 크...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112045000 +0900" stop="20261112054000 +0900" channel="The Movie">
+    <title lang="ko">2026 무비플러스 (184회)</title>
+    <desc lang="ko">2026 무비플러스 (184회)
+회차 : 184회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.183.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112054000 +0900" stop="20261112063500 +0900" channel="The Movie">
+    <title lang="ko">무비플러스 스페셜 (734회)</title>
+    <desc lang="ko">무비플러스 스페셜 (734회)
+회차 : 734회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.733.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112063500 +0900" stop="20261112074000 +0900" channel="The Movie">
+    <title lang="ko">초능력자</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">초능력자
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+세상이 멈췄다. 딱 한놈만 빼고... 규남이 일하는 작고 외진 전당포, '유토피아'. 돈을 훔치러 들어온 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112074000 +0900" stop="20261112085000 +0900" channel="The Movie">
+    <title lang="ko">초능력자</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">초능력자
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+세상이 멈췄다. 딱 한놈만 빼고... 규남이 일하는 작고 외진 전당포, '유토피아'. 돈을 훔치러 들어온 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112085000 +0900" stop="20261112100000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (40회)</title>
+    <desc lang="ko">극한직업 (40회)
+회차 : 40회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.39.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112112500 +0900" channel="The Movie">
+    <title lang="ko">나는 자연인이다 (320회)</title>
+    <desc lang="ko">나는 자연인이다 (320회)
+회차 : 320회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.319.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112112500 +0900" stop="20261112123500 +0900" channel="The Movie">
+    <title lang="ko">징기스칸</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">징기스칸
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+어린 테무친은 자무카 일당들에게 가족을 잃고 노예가 된다. 그 후 세월이 흘러 청년이 된 그는 자무카...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112123500 +0900" stop="20261112134000 +0900" channel="The Movie">
+    <title lang="ko">징기스칸</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">징기스칸
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+어린 테무친은 자무카 일당들에게 가족을 잃고 노예가 된다. 그 후 세월이 흘러 청년이 된 그는 자무카...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112134000 +0900" stop="20261112144000 +0900" channel="The Movie">
+    <title lang="ko">징기스칸</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">징기스칸
+부제 : 3부
+장르 : 영화
+등급 : 15세 이상 관람가
+어린 테무친은 자무카 일당들에게 가족을 잃고 노예가 된다. 그 후 세월이 흘러 청년이 된 그는 자무카...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112144000 +0900" stop="20261112155000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (40회)</title>
+    <desc lang="ko">극한직업 (40회)
+회차 : 40회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.39.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112155000 +0900" stop="20261112170000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (41회)</title>
+    <desc lang="ko">극한직업 (41회)
+회차 : 41회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112170000 +0900" stop="20261112181500 +0900" channel="The Movie">
+    <title lang="ko">사바타</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">사바타
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+독수리 같은 모습의 사바타가 서부 개척 마을에 들어온다. 마을 은행이 강도에게 털리지만, 사바타는 살...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112181500 +0900" stop="20261112193500 +0900" channel="The Movie">
+    <title lang="ko">사바타</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">사바타
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+독수리 같은 모습의 사바타가 서부 개척 마을에 들어온다. 마을 은행이 강도에게 털리지만, 사바타는 살...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112193500 +0900" stop="20261112204000 +0900" channel="The Movie">
+    <title lang="ko">머큐리</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">머큐리
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+FBI 비밀 요원 아트 제프리(Arthur 'Art' Jeffries: 브루스 윌리스 분)는 자신의 공작 활동이 실패로 돌...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112204000 +0900" stop="20261112215000 +0900" channel="The Movie">
+    <title lang="ko">머큐리</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">머큐리
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+FBI 비밀 요원 아트 제프리(Arthur 'Art' Jeffries: 브루스 윌리스 분)는 자신의 공작 활동이 실패로 돌...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112215000 +0900" stop="20261112225500 +0900" channel="The Movie">
+    <title lang="ko">콜래트럴 데미지</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">콜래트럴 데미지
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+사랑하는 가족과 함께 평화로운 일상을 살아가던 LA 소방관 고디 브루어(아놀드 슈왈제네거 분). 어느 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112225500 +0900" stop="20261113000000 +0900" channel="The Movie">
+    <title lang="ko">콜래트럴 데미지</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">콜래트럴 데미지
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+사랑하는 가족과 함께 평화로운 일상을 살아가던 LA 소방관 고디 브루어(아놀드 슈왈제네거 분). 어느 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113000000 +0900" stop="20261113010000 +0900" channel="The Movie">
+    <title lang="ko">카지노</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">카지노
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+때는 1983년. 타고난 도박사 에이스는 뛰어난 도박 실력으로 마피아 보스들의 총애를 받는다. 마피아 보...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113010000 +0900" stop="20261113020000 +0900" channel="The Movie">
+    <title lang="ko">카지노</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">카지노
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+때는 1983년. 타고난 도박사 에이스는 뛰어난 도박 실력으로 마피아 보스들의 총애를 받는다. 마피아 보...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113020000 +0900" stop="20261113025000 +0900" channel="The Movie">
+    <title lang="ko">카지노</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">카지노
+부제 : 3부
+장르 : 영화
+등급 : 19세 이상 관람가
+때는 1983년. 타고난 도박사 에이스는 뛰어난 도박 실력으로 마피아 보스들의 총애를 받는다. 마피아 보...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113025000 +0900" stop="20261113034000 +0900" channel="The Movie">
+    <title lang="ko">카지노</title>
+    <sub-title lang="ko">4부</sub-title>
+    <desc lang="ko">카지노
+부제 : 4부
+장르 : 영화
+등급 : 19세 이상 관람가
+때는 1983년. 타고난 도박사 에이스는 뛰어난 도박 실력으로 마피아 보스들의 총애를 받는다. 마피아 보...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113034000 +0900" stop="20261113043500 +0900" channel="The Movie">
+    <title lang="ko">화장</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">화장
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+투병 끝에 아내가 죽었다. 소식을 듣고 달려온 딸의 오열에 오상무는 암이 재발했다는 말을 듣고 터트린...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113043500 +0900" stop="20261113053500 +0900" channel="The Movie">
+    <title lang="ko">화장</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">화장
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+투병 끝에 아내가 죽었다. 소식을 듣고 달려온 딸의 오열에 오상무는 암이 재발했다는 말을 듣고 터트린...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113053500 +0900" stop="20261113063500 +0900" channel="The Movie">
+    <title lang="ko">무비플러스 스페셜 (735회)</title>
+    <desc lang="ko">무비플러스 스페셜 (735회)
+회차 : 735회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.734.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113063500 +0900" stop="20261113074500 +0900" channel="The Movie">
+    <title lang="ko">소년, 천국에 가다</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">소년, 천국에 가다
+부제 : 1부
+장르 : 영화
+등급 : 12세 이상 관람가
+미혼모의 아들로 태어나 미혼모와 결혼하는 게 꿈이 되어버린 별난 13살 네모. 엄마의 급작스런 죽음 이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113074500 +0900" stop="20261113085500 +0900" channel="The Movie">
+    <title lang="ko">소년, 천국에 가다</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">소년, 천국에 가다
+부제 : 2부
+장르 : 영화
+등급 : 12세 이상 관람가
+미혼모의 아들로 태어나 미혼모와 결혼하는 게 꿈이 되어버린 별난 13살 네모. 엄마의 급작스런 죽음 이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113085500 +0900" stop="20261113100500 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (41회)</title>
+    <desc lang="ko">극한직업 (41회)
+회차 : 41회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113100500 +0900" stop="20261113113000 +0900" channel="The Movie">
+    <title lang="ko">나는 자연인이다 (321회)</title>
+    <desc lang="ko">나는 자연인이다 (321회)
+회차 : 321회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.320.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113113000 +0900" stop="20261113124000 +0900" channel="The Movie">
+    <title lang="ko">수색자</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">수색자
+부제 : 1부
+장르 : 영화
+등급 : 12세 이상 관람가
+남북 전쟁 당시 남부 동맹에 군인으로 참전해 3년간 집을 떠나 있던 전직 보안관 이든 폴리(존 웨인 분)...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113124000 +0900" stop="20261113134000 +0900" channel="The Movie">
+    <title lang="ko">수색자</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">수색자
+부제 : 2부
+장르 : 영화
+등급 : 12세 이상 관람가
+남북 전쟁 당시 남부 동맹에 군인으로 참전해 3년간 집을 떠나 있던 전직 보안관 이든 폴리(존 웨인 분)...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113134000 +0900" stop="20261113144000 +0900" channel="The Movie">
+    <title lang="ko">수색자</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">수색자
+부제 : 3부
+장르 : 영화
+등급 : 12세 이상 관람가
+남북 전쟁 당시 남부 동맹에 군인으로 참전해 3년간 집을 떠나 있던 전직 보안관 이든 폴리(존 웨인 분)...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113144000 +0900" stop="20261113155000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (41회)</title>
+    <desc lang="ko">극한직업 (41회)
+회차 : 41회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.40.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113155000 +0900" stop="20261113170000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (42회)</title>
+    <desc lang="ko">극한직업 (42회)
+회차 : 42회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.41.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113170000 +0900" stop="20261113180500 +0900" channel="The Movie">
+    <title lang="ko">글리머 맨</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">글리머 맨
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+LA에서 연쇄살인사건이 벌어진다. 살인범은 카톨릭 신도인 부부만을 골라 살해하여 십자가 처형의 형태...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113180500 +0900" stop="20261113191500 +0900" channel="The Movie">
+    <title lang="ko">글리머 맨</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">글리머 맨
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+LA에서 연쇄살인사건이 벌어진다. 살인범은 카톨릭 신도인 부부만을 골라 살해하여 십자가 처형의 형태...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113191500 +0900" stop="20261113202500 +0900" channel="The Movie">
+    <title lang="ko">[금요명작관] 하이스트</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">[금요명작관] 하이스트
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113202500 +0900" stop="20261113212500 +0900" channel="The Movie">
+    <title lang="ko">[금요명작관] 하이스트</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">[금요명작관] 하이스트
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113212500 +0900" stop="20261113223500 +0900" channel="The Movie">
+    <title lang="ko">007 네버다이</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">007 네버다이
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+'카버 미디어'라는 세계적 대중 매체 기업의 거부인 '엘리엇 카버'(조나단 프라이스 분)는 인공위성과 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113223500 +0900" stop="20261113234500 +0900" channel="The Movie">
+    <title lang="ko">007 네버다이</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">007 네버다이
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+'카버 미디어'라는 세계적 대중 매체 기업의 거부인 '엘리엇 카버'(조나단 프라이스 분)는 인공위성과 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113234500 +0900" stop="20261114005000 +0900" channel="The Movie">
+    <title lang="ko">레이어 케이크</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">레이어 케이크
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+마약브로커 XXXX는 자신을 단지 코카인을 취급하는 비즈니스맨일 뿐이라고 생각한다. 어느날 조직의 수...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114005000 +0900" stop="20261114015500 +0900" channel="The Movie">
+    <title lang="ko">레이어 케이크</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">레이어 케이크
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+마약브로커 XXXX는 자신을 단지 코카인을 취급하는 비즈니스맨일 뿐이라고 생각한다. 어느날 조직의 수...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114015500 +0900" stop="20261114025500 +0900" channel="The Movie">
+    <title lang="ko">폭풍전야</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">폭풍전야
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+믿었던 사랑의 배신 후, 누명을 쓴 채 수감생활을 하던 수인(김남길). 어느 날 감옥에서 만난 상병(정윤...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114025500 +0900" stop="20261114035500 +0900" channel="The Movie">
+    <title lang="ko">폭풍전야</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">폭풍전야
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+믿었던 사랑의 배신 후, 누명을 쓴 채 수감생활을 하던 수인(김남길). 어느 날 감옥에서 만난 상병(정윤...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114035500 +0900" stop="20261114044500 +0900" channel="The Movie">
+    <title lang="ko">2026 무비플러스 (185회)</title>
+    <desc lang="ko">2026 무비플러스 (185회)
+회차 : 185회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.184.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114044500 +0900" stop="20261114053500 +0900" channel="The Movie">
+    <title lang="ko">무비플러스 스페셜 (736회)</title>
+    <desc lang="ko">무비플러스 스페셜 (736회)
+회차 : 736회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.735.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114053500 +0900" stop="20261114063500 +0900" channel="The Movie">
+    <title lang="ko">무비플러스 스페셜 (737회)</title>
+    <desc lang="ko">무비플러스 스페셜 (737회)
+회차 : 737회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.736.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114063500 +0900" stop="20261114074000 +0900" channel="The Movie">
+    <title lang="ko">구미호 가족</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">구미호 가족
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+가족을 깊이 사랑하지만 어리숙하고 소심한 아버지, 섹시한 외모를 가졌지만 발정에 가깝게 밝히는(?) ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114074000 +0900" stop="20261114084000 +0900" channel="The Movie">
+    <title lang="ko">구미호 가족</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">구미호 가족
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+가족을 깊이 사랑하지만 어리숙하고 소심한 아버지, 섹시한 외모를 가졌지만 발정에 가깝게 밝히는(?) ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114084000 +0900" stop="20261114095000 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (42회)</title>
+    <desc lang="ko">극한직업 (42회)
+회차 : 42회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.41.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114095000 +0900" stop="20261114110500 +0900" channel="The Movie">
+    <title lang="ko">아팔루사</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">아팔루사
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114110500 +0900" stop="20261114122500 +0900" channel="The Movie">
+    <title lang="ko">아팔루사</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">아팔루사
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114122500 +0900" stop="20261114134000 +0900" channel="The Movie">
+    <title lang="ko">캣로우</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">캣로우
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+캣로우와 코웬은 오랜 친구 사이이다. 하지만 보안관인 코웬과는 반대로, 캣로우는 소란을 피우며 범법 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114134000 +0900" stop="20261114145500 +0900" channel="The Movie">
+    <title lang="ko">캣로우</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">캣로우
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+캣로우와 코웬은 오랜 친구 사이이다. 하지만 보안관인 코웬과는 반대로, 캣로우는 소란을 피우며 범법 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114145500 +0900" stop="20261114160500 +0900" channel="The Movie">
+    <title lang="ko">극한직업 (42회)</title>
+    <desc lang="ko">극한직업 (42회)
+회차 : 42회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.41.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114160500 +0900" stop="20261114171500 +0900" channel="The Movie">
+    <title lang="ko">실종</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">실종
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+1885년 뉴멕시코. 매기(케이트 블란쳇)는 홀로 10대인 두 딸을 키우기 위해 치료사 일을 하며 생계를 이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114171500 +0900" stop="20261114182500 +0900" channel="The Movie">
+    <title lang="ko">실종</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">실종
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+1885년 뉴멕시코. 매기(케이트 블란쳇)는 홀로 10대인 두 딸을 키우기 위해 치료사 일을 하며 생계를 이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114182500 +0900" stop="20261114192500 +0900" channel="The Movie">
+    <title lang="ko">실종</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">실종
+부제 : 3부
+장르 : 영화
+등급 : 15세 이상 관람가
+1885년 뉴멕시코. 매기(케이트 블란쳇)는 홀로 10대인 두 딸을 키우기 위해 치료사 일을 하며 생계를 이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114192500 +0900" stop="20261114202000 +0900" channel="The Movie">
+    <title lang="ko">스나이퍼:리로디드</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">스나이퍼:리로디드
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+아프리카의 콩고민주공화국의 유엔군 소속인 해군 브랜든 베케드 상사는 전설의 저격수 토마스 베케트의...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114202000 +0900" stop="20261114212000 +0900" channel="The Movie">
+    <title lang="ko">스나이퍼:리로디드</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">스나이퍼:리로디드
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+아프리카의 콩고민주공화국의 유엔군 소속인 해군 브랜든 베케드 상사는 전설의 저격수 토마스 베케트의...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114212000 +0900" stop="20261114222000 +0900" channel="The Movie">
+    <title lang="ko">007 어나더 데이</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">007 어나더 데이
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+제임스 본드, 일생일대의 적수를 만나다! 북한내 무기밀매 현장에 위장잠입한 제임스 본드는 그곳에...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114222000 +0900" stop="20261114232000 +0900" channel="The Movie">
+    <title lang="ko">007 어나더 데이</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">007 어나더 데이
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+제임스 본드, 일생일대의 적수를 만나다! 북한내 무기밀매 현장에 위장잠입한 제임스 본드는 그곳에...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114232000 +0900" stop="20261115001000 +0900" channel="The Movie">
+    <title lang="ko">007 어나더 데이</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">007 어나더 데이
+부제 : 3부
+장르 : 영화
+등급 : 15세 이상 관람가
+제임스 본드, 일생일대의 적수를 만나다! 북한내 무기밀매 현장에 위장잠입한 제임스 본드는 그곳에...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112000300 +0900" stop="20261112005700 +0900" channel="Mplex">
+    <title lang="ko">스티븐 시걸의 작전명 고스트</title>
+    <desc lang="ko">스티븐 시걸의 작전명 고스트
+장르 : 영화
+등급 : 19세 이상 관람가
+무적의 사나이 스티븐 시걸의 전설은 끝나지 않는다! 이번엔 핵폭탄 거래를 저지하라! 핵폭탄을 거...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112005700 +0900" stop="20261112020100 +0900" channel="Mplex">
+    <title lang="ko">풍산개 (재)</title>
+    <desc lang="ko">풍산개 (재)
+방송 : 재방송
+장르 : 영화
+등급 : 19세 이상 관람가
+휴전선을 넘나들며 서울에서 평양까지 무엇이든 3시간 만에 배달하는 정체불명의 사나이. 이번에는 물건...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112020100 +0900" stop="20261112031700 +0900" channel="Mplex">
+    <title lang="ko">풍산개 (재)</title>
+    <desc lang="ko">풍산개 (재)
+방송 : 재방송
+장르 : 영화
+등급 : 19세 이상 관람가
+휴전선을 넘나들며 서울에서 평양까지 무엇이든 3시간 만에 배달하는 정체불명의 사나이. 이번에는 물건...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112031700 +0900" stop="20261112041500 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (1회)</title>
+    <desc lang="ko">구부적검찰관 (1회)
+회차 : 1회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.0.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112041500 +0900" stop="20261112051100 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (2회)</title>
+    <desc lang="ko">구부적검찰관 (2회)
+회차 : 2회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.1.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112051100 +0900" stop="20261112060500 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (3회)</title>
+    <desc lang="ko">구부적검찰관 (3회)
+회차 : 3회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.2.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112060500 +0900" stop="20261112070000 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (4회)</title>
+    <desc lang="ko">구부적검찰관 (4회)
+회차 : 4회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112070000 +0900" stop="20261112075900 +0900" channel="Mplex">
+    <title lang="ko">리버 오브 패션 (47회)</title>
+    <desc lang="ko">리버 오브 패션 (47회)
+회차 : 47회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.46.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112075900 +0900" stop="20261112090100 +0900" channel="Mplex">
+    <title lang="ko">리버 오브 패션 (48회)</title>
+    <desc lang="ko">리버 오브 패션 (48회)
+회차 : 48회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.47.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112090100 +0900" stop="20261112100200 +0900" channel="Mplex">
+    <title lang="ko">에메랄드: 욕망의 연대기 (25회)</title>
+    <desc lang="ko">에메랄드: 욕망의 연대기 (25회)
+회차 : 25회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.24.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100200 +0900" stop="20261112105500 +0900" channel="Mplex">
+    <title lang="ko">에메랄드: 욕망의 연대기 (26회)</title>
+    <desc lang="ko">에메랄드: 욕망의 연대기 (26회)
+회차 : 26회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.25.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112105500 +0900" stop="20261112122000 +0900" channel="Mplex">
+    <title lang="ko">모란봉클럽 [해] (35회)</title>
+    <desc lang="ko">모란봉클럽 [해] (35회)
+회차 : 35회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.34.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112122000 +0900" stop="20261112131600 +0900" channel="Mplex">
+    <title lang="ko">와일드 건맨 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">와일드 건맨 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112131600 +0900" stop="20261112142200 +0900" channel="Mplex">
+    <title lang="ko">와일드 건맨 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">와일드 건맨 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112142200 +0900" stop="20261112152400 +0900" channel="Mplex">
+    <title lang="ko">천하칠검 양가장 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">천하칠검 양가장 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+양업은 송나라의 명장으로 일곱 아들을 두었다. 어느 날, 여섯째 아들이 참가한 대련에서 그의 동생이 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112152400 +0900" stop="20261112162000 +0900" channel="Mplex">
+    <title lang="ko">천하칠검 양가장 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">천하칠검 양가장 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+양업은 송나라의 명장으로 일곱 아들을 두었다. 어느 날, 여섯째 아들이 참가한 대련에서 그의 동생이 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112162000 +0900" stop="20261112173000 +0900" channel="Mplex">
+    <title lang="ko">태양의 눈물 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">태양의 눈물 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+단순했던 임무가 일순간 지옥으로 변한다... 유전 소유권을 둘러싼 쿠테타로 내전에 휩싸인 나이지리아....</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112173000 +0900" stop="20261112183900 +0900" channel="Mplex">
+    <title lang="ko">태양의 눈물 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">태양의 눈물 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+단순했던 임무가 일순간 지옥으로 변한다... 유전 소유권을 둘러싼 쿠테타로 내전에 휩싸인 나이지리아....</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112183900 +0900" stop="20261112194000 +0900" channel="Mplex">
+    <title lang="ko">달마야 놀자 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">달마야 놀자 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+업소의 주도권을 놓고 일대 격전을 벌이던 '재규' 일당은 되려 무지막지한 습격을 당하고, 깊은 산중의 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112194000 +0900" stop="20261112203900 +0900" channel="Mplex">
+    <title lang="ko">달마야 놀자 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">달마야 놀자 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+업소의 주도권을 놓고 일대 격전을 벌이던 '재규' 일당은 되려 무지막지한 습격을 당하고, 깊은 산중의 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112203900 +0900" stop="20261112213200 +0900" channel="Mplex">
+    <title lang="ko">유니버셜 솔저 2-그 두번째 임무 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">유니버셜 솔저 2-그 두번째 임무 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+연합군으로 참전해 죽음 직전까지 갔던 베트남 전에서 돌아와 유니버설 솔저로 다시 태어났던 록 데버록...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112213200 +0900" stop="20261112222300 +0900" channel="Mplex">
+    <title lang="ko">유니버셜 솔저 2-그 두번째 임무 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">유니버셜 솔저 2-그 두번째 임무 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 15세 이상 관람가
+연합군으로 참전해 죽음 직전까지 갔던 베트남 전에서 돌아와 유니버설 솔저로 다시 태어났던 록 데버록...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112222300 +0900" stop="20261112231700 +0900" channel="Mplex">
+    <title lang="ko">에어라인 플라이트</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">에어라인 플라이트
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112231700 +0900" stop="20261113001000 +0900" channel="Mplex">
+    <title lang="ko">에어라인 플라이트</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">에어라인 플라이트
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113001000 +0900" stop="20261113013800 +0900" channel="Mplex">
+    <title lang="ko">알바레즈 형제: 마약왕을 제거하라</title>
+    <desc lang="ko">알바레즈 형제: 마약왕을 제거하라
+장르 : 영화
+등급 : 19세 이상 관람가
+어느 날, 사업가로 성공한 형 라울 알바레즈가 섹시한 약혼녀 소니아와 함께 동생 아르만도의 농장에 찾...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113013800 +0900" stop="20261113023300 +0900" channel="Mplex">
+    <title lang="ko">클럽 버터플라이 (재)</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">클럽 버터플라이 (재)
+부제 : 1부
+방송 : 재방송
+장르 : 영화
+등급 : 19세 이상 관람가
+오랜만에 아내와 진한 밤을 나누고 싶어 혁은 잠들어있는 아내를 깨운다. 하지만 직장 일로 잔뜩 피곤한...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113023300 +0900" stop="20261113033100 +0900" channel="Mplex">
+    <title lang="ko">클럽 버터플라이 (재)</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">클럽 버터플라이 (재)
+부제 : 2부
+방송 : 재방송
+장르 : 영화
+등급 : 19세 이상 관람가
+오랜만에 아내와 진한 밤을 나누고 싶어 혁은 잠들어있는 아내를 깨운다. 하지만 직장 일로 잔뜩 피곤한...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <previously-shown />
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113033100 +0900" stop="20261113042100 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (5회)</title>
+    <desc lang="ko">구부적검찰관 (5회)
+회차 : 5회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113042100 +0900" stop="20261113051200 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (6회)</title>
+    <desc lang="ko">구부적검찰관 (6회)
+회차 : 6회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.5.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113051200 +0900" stop="20261113055900 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (7회)</title>
+    <desc lang="ko">구부적검찰관 (7회)
+회차 : 7회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.6.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113055900 +0900" stop="20261113070000 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관 (8회)</title>
+    <desc lang="ko">구부적검찰관 (8회)
+회차 : 8회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.7.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113070000 +0900" stop="20261113090000 +0900" channel="Mplex">
+    <title lang="ko">리버 오브 패션</title>
+    <sub-title lang="ko">49-50회</sub-title>
+    <desc lang="ko">리버 오브 패션
+부제 : 49-50회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113090000 +0900" stop="20261113110000 +0900" channel="Mplex">
+    <title lang="ko">에메랄드: 욕망의 연대기</title>
+    <sub-title lang="ko">27-28회</sub-title>
+    <desc lang="ko">에메랄드: 욕망의 연대기
+부제 : 27-28회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113110000 +0900" stop="20261113120000 +0900" channel="Mplex">
+    <title lang="ko">모란봉클럽 [해] (36회)</title>
+    <desc lang="ko">모란봉클럽 [해] (36회)
+회차 : 36회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.35.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113120000 +0900" stop="20261113140000 +0900" channel="Mplex">
+    <title lang="ko">퓨리어스</title>
+    <desc lang="ko">퓨리어스
+장르 : 영화
+등급 : 15세 이상 관람가
+유럽 정복을 위해 러시아를 침략한 칭기즈 칸의 손자, 바투 칸. 하지만 단 십수 명의 인원으로 이들의 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113140000 +0900" stop="20261113160000 +0900" channel="Mplex">
+    <title lang="ko">셀렉트</title>
+    <desc lang="ko">셀렉트
+장르 : 영화
+등급 : 15세 이상 관람가
+결말을 알 수 없는 세 번의 선택이 시작된다!＂ 바버라는 어머니에게 물려받은 직물 가게를 운영하는 출...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113160000 +0900" stop="20261113180000 +0900" channel="Mplex">
+    <title lang="ko">아테나 더 무비</title>
+    <desc lang="ko">아테나 더 무비
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113180000 +0900" stop="20261113200000 +0900" channel="Mplex">
+    <title lang="ko">에어 크래쉬</title>
+    <desc lang="ko">에어 크래쉬
+장르 : 영화
+등급 : 12세 이상 관람가
+대통령 전용기와 여객기의 피할 수 없는 극한 충돌! 인간의 실수로 인한 항공 사고를 줄이려는 목적...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>12세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113200000 +0900" stop="20261113220000 +0900" channel="Mplex">
+    <title lang="ko">자토이치</title>
+    <desc lang="ko">자토이치
+장르 : 영화
+등급 : 15세 이상 관람가
+자토이치'(기타노 다케시 분)는 도박과 마사지로 생계를 이어가는 맹인 방랑자. 하지만 이 남루한 행색...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113220000 +0900" stop="20261114000000 +0900" channel="Mplex">
+    <title lang="ko">솔트</title>
+    <desc lang="ko">솔트
+장르 : 영화
+등급 : 15세 이상 관람가
+에블린 솔트는 최고의 CIA 요원으로 활동하고 있었다. 그러던 어느 날 러시아 정보원을 취조하던 에블린...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114000000 +0900" stop="20261114030000 +0900" channel="Mplex">
+    <title lang="ko">할복 : 사무라이의 죽음</title>
+    <desc lang="ko">할복 : 사무라이의 죽음
+장르 : 영화
+등급 : 19세 이상 관람가
+전국 시대가 끝나고 드디어 평화가 찾아온 것처럼 보이는 에도시대 초기, 도쿠가와 치세. 그러나 그 밑...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114030000 +0900" stop="20261114070000 +0900" channel="Mplex">
+    <title lang="ko">구부적검찰관</title>
+    <sub-title lang="ko">9-12회</sub-title>
+    <desc lang="ko">구부적검찰관
+부제 : 9-12회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114070000 +0900" stop="20261114090000 +0900" channel="Mplex">
+    <title lang="ko">아서</title>
+    <desc lang="ko">아서
+장르 : 영화
+등급 : 15세 이상 관람가
+술주정뱅이 백만장자 아서는 좋아하지도 않는 부자집 상속녀와 결혼하기로 하고 그의 무책임한 생활을 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114090000 +0900" stop="20261114110000 +0900" channel="Mplex">
+    <title lang="ko">늑대소년</title>
+    <desc lang="ko">늑대소년
+장르 : 영화
+등급 : 15세 이상 관람가
+요양 차 가족들과 한적한 마을로 이사 간 소녀는 어둠 속에 의문의 늑대소년을 발견한다. 야생의 눈빛으...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114110000 +0900" stop="20261114130000 +0900" channel="Mplex">
+    <title lang="ko">아이리스 더무비</title>
+    <desc lang="ko">아이리스 더무비
+장르 : 영화
+등급 : 15세 이상 관람가
+1950년대 옥스퍼드대, 철학을 가르치던 아이리스와 영문학 강사이던 존이 교내 모임에서 서로 인사를 나...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114130000 +0900" stop="20261114150000 +0900" channel="Mplex">
+    <title lang="ko">에어포스 2</title>
+    <desc lang="ko">에어포스 2
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114150000 +0900" stop="20261114170000 +0900" channel="Mplex">
+    <title lang="ko">악의 연대기</title>
+    <desc lang="ko">악의 연대기
+장르 : 영화
+등급 : 15세 이상 관람가
+특급 승진을 앞둔 최반장은 회식 후 의문의 괴한에게 납치를 당한다. 위기를 모면하려던 최반장은 우발...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114170000 +0900" stop="20261114190000 +0900" channel="Mplex">
+    <title lang="ko">배틀그라운드:브릿지 전투</title>
+    <desc lang="ko">배틀그라운드:브릿지 전투
+장르 : 영화
+등급 : 15세 이상 관람가
+다리를 방어하는 임무를 맡은 백전백승의 독수리포대는 다리 근처의 수도원에 숨어 있는 장애아동들을 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114190000 +0900" stop="20261114210000 +0900" channel="Mplex">
+    <title lang="ko">애셔</title>
+    <desc lang="ko">애셔
+장르 : 영화
+등급 : 15세 이상 관람가
+청부 살인 업자 '애셔'는 임무 수행 중에 우연히 만나게 된 '소피'에게 첫눈에 반하게 된다. 오랜 시간 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114210000 +0900" stop="20261114230000 +0900" channel="Mplex">
+    <title lang="ko">U-571</title>
+    <desc lang="ko">U-571
+장르 : 영화
+등급 : 15세 이상 관람가
+제2차 세계대전 와중, 독일 잠수함 유보트가 맹활약하던 북대서양. 연합군은 그들의 공격으로 천여척의 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114230000 +0900" stop="20261115010000 +0900" channel="Mplex">
+    <title lang="ko">타임캅</title>
+    <desc lang="ko">타임캅
+장르 : 영화
+등급 : 19세 이상 관람가
+서기 2004년 시간 여행이 가능해진 이 시기에 시간의 흐름을 저해하는 일은 범죄로 간주된다. 따라서 누...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112004000 +0900" stop="20261112014000 +0900" channel="CINETREE">
+    <title lang="ko">크리미널 카운트다운</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">크리미널 카운트다운
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+범죄정신이상자인 세르키를 멕시코 경찰에 신고할 때까지 밀란과 빅터는 한때 가장 친한 친구였다. 6년 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112014000 +0900" stop="20261112031000 +0900" channel="CINETREE">
+    <title lang="ko">2 솔져스: 배틀필드</title>
+    <desc lang="ko">2 솔져스: 배틀필드
+장르 : 영화
+등급 : 19세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112031000 +0900" stop="20261112040000 +0900" channel="CINETREE">
+    <title lang="ko">닥터봉</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">닥터봉
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+사랑하는 아내를 잃고 국민학교 1학년 짜리 아들 훈과 살면서 애인이 다섯 손가락을 넘나드는 바람둥이 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112040000 +0900" stop="20261112050000 +0900" channel="CINETREE">
+    <title lang="ko">닥터봉</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">닥터봉
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+사랑하는 아내를 잃고 국민학교 1학년 짜리 아들 훈과 살면서 애인이 다섯 손가락을 넘나드는 바람둥이 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112050000 +0900" stop="20261112060000 +0900" channel="CINETREE">
+    <title lang="ko">산딸기 6</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">산딸기 6
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+방탕하고 요사스런 북녀는 팔도를 전전하며 몸팔고 웃음팔아 사내들을 홀리고 다니는 귀녀이고 봉식은 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112060000 +0900" stop="20261112070000 +0900" channel="CINETREE">
+    <title lang="ko">산딸기 6</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">산딸기 6
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+방탕하고 요사스런 북녀는 팔도를 전전하며 몸팔고 웃음팔아 사내들을 홀리고 다니는 귀녀이고 봉식은 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112070000 +0900" stop="20261112073000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (23회)</title>
+    <desc lang="ko">하이킥 시즌2 (23회)
+회차 : 23회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.22.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112073000 +0900" stop="20261112080000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (24회)</title>
+    <desc lang="ko">하이킥 시즌2 (24회)
+회차 : 24회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.23.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112080000 +0900" stop="20261112090000 +0900" channel="CINETREE">
+    <title lang="ko">사노라면 (659회)</title>
+    <desc lang="ko">사노라면 (659회)
+회차 : 659회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.658.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112090000 +0900" stop="20261112100000 +0900" channel="CINETREE">
+    <title lang="ko">NEW 천기X파일 (4회)</title>
+    <desc lang="ko">NEW 천기X파일 (4회)
+회차 : 4회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.3.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112100000 +0900" stop="20261112110000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (510회)</title>
+    <desc lang="ko">나는 자연인이다 (510회)
+회차 : 510회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.509.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112110000 +0900" stop="20261112120000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (511회)</title>
+    <desc lang="ko">나는 자연인이다 (511회)
+회차 : 511회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.510.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112120000 +0900" stop="20261112130000 +0900" channel="CINETREE">
+    <title lang="ko">전사 씨야마</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">전사 씨야마
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+현재 시대의 태국에 살고 있는 아나, 깁, 보트 세 명의 젊은이들이 우연한 기회에 과거로 통하는 게이트...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112130000 +0900" stop="20261112141000 +0900" channel="CINETREE">
+    <title lang="ko">전사 씨야마</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">전사 씨야마
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+현재 시대의 태국에 살고 있는 아나, 깁, 보트 세 명의 젊은이들이 우연한 기회에 과거로 통하는 게이트...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112141000 +0900" stop="20261112150000 +0900" channel="CINETREE">
+    <title lang="ko">바이킹 : 라스트 윗치 워</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">바이킹 : 라스트 윗치 워
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112150000 +0900" stop="20261112160000 +0900" channel="CINETREE">
+    <title lang="ko">바이킹 : 라스트 윗치 워</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">바이킹 : 라스트 윗치 워
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112160000 +0900" stop="20261112170000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (519회)</title>
+    <desc lang="ko">걸어서 세계속으로 (519회)
+회차 : 519회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.518.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112170000 +0900" stop="20261112180000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (520회)</title>
+    <desc lang="ko">걸어서 세계속으로 (520회)
+회차 : 520회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.519.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112180000 +0900" stop="20261112190000 +0900" channel="CINETREE">
+    <title lang="ko">탱크 독</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">탱크 독
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+세계 2차 대전에서 러시라 군 조종사로 활약하다 부상을 당해 한 쪽 다리를 잃은 볼코프는 잠시 예비군...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112190000 +0900" stop="20261112200000 +0900" channel="CINETREE">
+    <title lang="ko">탱크 독</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">탱크 독
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+세계 2차 대전에서 러시라 군 조종사로 활약하다 부상을 당해 한 쪽 다리를 잃은 볼코프는 잠시 예비군...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112200000 +0900" stop="20261112211000 +0900" channel="CINETREE">
+    <title lang="ko">스파이</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">스파이
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+대한민국 최고의 스파이 김철수. 하지만 마누라 영희 앞에만 서면 쩔쩔 매는 대한민국의 평범한 남편이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112211000 +0900" stop="20261112222000 +0900" channel="CINETREE">
+    <title lang="ko">스파이</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">스파이
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+대한민국 최고의 스파이 김철수. 하지만 마누라 영희 앞에만 서면 쩔쩔 매는 대한민국의 평범한 남편이...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112222000 +0900" stop="20261112232000 +0900" channel="CINETREE">
+    <title lang="ko">랜드마인 고즈 클릭</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">랜드마인 고즈 클릭
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+그루지아 시골에서 트레킹중인 크리스,다니엘,앨리시아는 사진을 찍기위해 포즈를 취하던중 크리스가 지...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261112232000 +0900" stop="20261113002000 +0900" channel="CINETREE">
+    <title lang="ko">랜드마인 고즈 클릭</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">랜드마인 고즈 클릭
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+그루지아 시골에서 트레킹중인 크리스,다니엘,앨리시아는 사진을 찍기위해 포즈를 취하던중 크리스가 지...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113002000 +0900" stop="20261113012000 +0900" channel="CINETREE">
+    <title lang="ko">써드 퍼슨</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">써드 퍼슨
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+파리에서 신작소설을 집필 중인 마이클. 그는 연인 안나를 호텔로 초대한다. 안나의 호텔방을 흰 장미로...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113012000 +0900" stop="20261113022000 +0900" channel="CINETREE">
+    <title lang="ko">써드 퍼슨</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">써드 퍼슨
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+파리에서 신작소설을 집필 중인 마이클. 그는 연인 안나를 호텔로 초대한다. 안나의 호텔방을 흰 장미로...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113022000 +0900" stop="20261113025000 +0900" channel="CINETREE">
+    <title lang="ko">써드 퍼슨</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">써드 퍼슨
+부제 : 3부
+장르 : 영화
+등급 : 19세 이상 관람가
+파리에서 신작소설을 집필 중인 마이클. 그는 연인 안나를 호텔로 초대한다. 안나의 호텔방을 흰 장미로...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113025000 +0900" stop="20261113035000 +0900" channel="CINETREE">
+    <title lang="ko">위험한 향기</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">위험한 향기
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+삼십대의 실내 장식가인 석우는 어느 날 우연히 마주친 묘령의 여인 혜영과 단 한 번의 정사로 인해 사...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113035000 +0900" stop="20261113050000 +0900" channel="CINETREE">
+    <title lang="ko">위험한 향기</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">위험한 향기
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+삼십대의 실내 장식가인 석우는 어느 날 우연히 마주친 묘령의 여인 혜영과 단 한 번의 정사로 인해 사...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113050000 +0900" stop="20261113060000 +0900" channel="CINETREE">
+    <title lang="ko">떡</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">떡
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+건달인 남편 덕희와 아들 용이를 위해 소작일을 하는 점례에게 동리남자들의 빈번한 유혹이 따른다. 상...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113060000 +0900" stop="20261113070000 +0900" channel="CINETREE">
+    <title lang="ko">떡</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">떡
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+건달인 남편 덕희와 아들 용이를 위해 소작일을 하는 점례에게 동리남자들의 빈번한 유혹이 따른다. 상...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113070000 +0900" stop="20261113073000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (25회)</title>
+    <desc lang="ko">하이킥 시즌2 (25회)
+회차 : 25회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.24.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113073000 +0900" stop="20261113080000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (26회)</title>
+    <desc lang="ko">하이킥 시즌2 (26회)
+회차 : 26회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.25.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113080000 +0900" stop="20261113090000 +0900" channel="CINETREE">
+    <title lang="ko">사노라면 (660회)</title>
+    <desc lang="ko">사노라면 (660회)
+회차 : 660회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.659.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113090000 +0900" stop="20261113100000 +0900" channel="CINETREE">
+    <title lang="ko">인생상담소 (111회)</title>
+    <desc lang="ko">인생상담소 (111회)
+회차 : 111회
+장르 : 교양
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.110.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113100000 +0900" stop="20261113110000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (512회)</title>
+    <desc lang="ko">나는 자연인이다 (512회)
+회차 : 512회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.511.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113110000 +0900" stop="20261113120000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (513회)</title>
+    <desc lang="ko">나는 자연인이다 (513회)
+회차 : 513회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.512.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113120000 +0900" stop="20261113130000 +0900" channel="CINETREE">
+    <title lang="ko">크리미널</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">크리미널
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+CIA 에이전트 빌은 워싱턴, 베를린, 베이징을 폐허로 만들 반정부 테러조직의 배후를 추적하던 중 그들...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113130000 +0900" stop="20261113141000 +0900" channel="CINETREE">
+    <title lang="ko">크리미널</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">크리미널
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+CIA 에이전트 빌은 워싱턴, 베를린, 베이징을 폐허로 만들 반정부 테러조직의 배후를 추적하던 중 그들...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113141000 +0900" stop="20261113150000 +0900" channel="CINETREE">
+    <title lang="ko">프롬 파리 위드 러브</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">프롬 파리 위드 러브
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+비밀 특수요원 왁스(존 트라볼타)는 자폭 테러조직으로부터 미국의 1급 정부인사를 보호하라는 중요한 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113150000 +0900" stop="20261113160000 +0900" channel="CINETREE">
+    <title lang="ko">프롬 파리 위드 러브</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">프롬 파리 위드 러브
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+비밀 특수요원 왁스(존 트라볼타)는 자폭 테러조직으로부터 미국의 1급 정부인사를 보호하라는 중요한 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113160000 +0900" stop="20261113170000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (521회)</title>
+    <desc lang="ko">걸어서 세계속으로 (521회)
+회차 : 521회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.520.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113170000 +0900" stop="20261113180000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (522회)</title>
+    <desc lang="ko">걸어서 세계속으로 (522회)
+회차 : 522회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.521.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113180000 +0900" stop="20261113190000 +0900" channel="CINETREE">
+    <title lang="ko">디시젼:리퀴데이션</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">디시젼:리퀴데이션
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+러시아 연방 보안국 소속 요원인 이고르는 북 카프카스에서 극악한 테러범 샤밀 일당에게 붙잡혔다가 병...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113190000 +0900" stop="20261113200000 +0900" channel="CINETREE">
+    <title lang="ko">디시젼:리퀴데이션</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">디시젼:리퀴데이션
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+러시아 연방 보안국 소속 요원인 이고르는 북 카프카스에서 극악한 테러범 샤밀 일당에게 붙잡혔다가 병...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113200000 +0900" stop="20261113210000 +0900" channel="CINETREE">
+    <title lang="ko">드라이브 앵그리</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">드라이브 앵그리
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+분노도 액션도 선을 넘었다! 딸의 죽음과 가족의 복수를 위해 분노의 질주를 멈추지 않던 밀턴(니콜라스...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113210000 +0900" stop="20261113220000 +0900" channel="CINETREE">
+    <title lang="ko">드라이브 앵그리</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">드라이브 앵그리
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+분노도 액션도 선을 넘었다! 딸의 죽음과 가족의 복수를 위해 분노의 질주를 멈추지 않던 밀턴(니콜라스...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113220000 +0900" stop="20261113230000 +0900" channel="CINETREE">
+    <title lang="ko">무사 노보우: 최후의 결전</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">무사 노보우: 최후의 결전
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261113230000 +0900" stop="20261114000000 +0900" channel="CINETREE">
+    <title lang="ko">무사 노보우: 최후의 결전</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">무사 노보우: 최후의 결전
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114000000 +0900" stop="20261114005000 +0900" channel="CINETREE">
+    <title lang="ko">무사 노보우: 최후의 결전</title>
+    <sub-title lang="ko">3부</sub-title>
+    <desc lang="ko">무사 노보우: 최후의 결전
+부제 : 3부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114005000 +0900" stop="20261114015000 +0900" channel="CINETREE">
+    <title lang="ko">절대 사랑</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">절대 사랑
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+경훈은 아내 현숙과 함께 특허 법률사무소에서 사내 근무를 하는 평범한 소시민이다. 그의 상관인 박재...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114015000 +0900" stop="20261114030000 +0900" channel="CINETREE">
+    <title lang="ko">절대 사랑</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">절대 사랑
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+경훈은 아내 현숙과 함께 특허 법률사무소에서 사내 근무를 하는 평범한 소시민이다. 그의 상관인 박재...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114030000 +0900" stop="20261114040000 +0900" channel="CINETREE">
+    <title lang="ko">씨네캐치 (83회)</title>
+    <desc lang="ko">씨네캐치 (83회)
+회차 : 83회
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.82.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114040000 +0900" stop="20261114050000 +0900" channel="CINETREE">
+    <title lang="ko">씨네캐치 (84회)</title>
+    <desc lang="ko">씨네캐치 (84회)
+회차 : 84회
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.83.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114050000 +0900" stop="20261114060000 +0900" channel="CINETREE">
+    <title lang="ko">애사당 홍도</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">애사당 홍도
+부제 : 1부
+장르 : 영화
+등급 : 19세 이상 관람가
+강화바닥의 호색한 배진사에게 부모를 잃은 어린 홍도는 안성땅 주모의 양녀가 된다. 하지만 의붓 아버...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114060000 +0900" stop="20261114070000 +0900" channel="CINETREE">
+    <title lang="ko">애사당 홍도</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">애사당 홍도
+부제 : 2부
+장르 : 영화
+등급 : 19세 이상 관람가
+강화바닥의 호색한 배진사에게 부모를 잃은 어린 홍도는 안성땅 주모의 양녀가 된다. 하지만 의붓 아버...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>19세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114070000 +0900" stop="20261114073000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (27회)</title>
+    <desc lang="ko">하이킥 시즌2 (27회)
+회차 : 27회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.26.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114073000 +0900" stop="20261114080000 +0900" channel="CINETREE">
+    <title lang="ko">하이킥 시즌2 (28회)</title>
+    <desc lang="ko">하이킥 시즌2 (28회)
+회차 : 28회
+장르 : 드라마
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">드라마</category>
+    <category lang="en">Movie / Drama</category>
+    <episode-num system="xmltv_ns">0.27.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114080000 +0900" stop="20261114090000 +0900" channel="CINETREE">
+    <title lang="ko">사노라면 (661회)</title>
+    <desc lang="ko">사노라면 (661회)
+회차 : 661회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.660.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114090000 +0900" stop="20261114100000 +0900" channel="CINETREE">
+    <title lang="ko">NEW 천기X파일 (5회)</title>
+    <desc lang="ko">NEW 천기X파일 (5회)
+회차 : 5회
+장르 : 예능
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">예능</category>
+    <episode-num system="xmltv_ns">0.4.0/0</episode-num>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114100000 +0900" stop="20261114110000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (514회)</title>
+    <desc lang="ko">나는 자연인이다 (514회)
+회차 : 514회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.513.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114110000 +0900" stop="20261114120000 +0900" channel="CINETREE">
+    <title lang="ko">나는 자연인이다 (515회)</title>
+    <desc lang="ko">나는 자연인이다 (515회)
+회차 : 515회
+장르 : 교양
+등급 : 전체 관람가</desc>
+    <category lang="ko">교양</category>
+    <category lang="en">Arts / Culture (without music)</category>
+    <episode-num system="xmltv_ns">0.514.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114120000 +0900" stop="20261114130000 +0900" channel="CINETREE">
+    <title lang="ko">마지막 대전투: 전장의 영웅들</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">마지막 대전투: 전장의 영웅들
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+제 2차 세계대전 중 이탈리아 북부 최후 방어선 고딕 라인 점거를 놓고 독일, 이탈리아, 미국 간의 첨예...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114130000 +0900" stop="20261114141000 +0900" channel="CINETREE">
+    <title lang="ko">마지막 대전투: 전장의 영웅들</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">마지막 대전투: 전장의 영웅들
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+제 2차 세계대전 중 이탈리아 북부 최후 방어선 고딕 라인 점거를 놓고 독일, 이탈리아, 미국 간의 첨예...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114141000 +0900" stop="20261114150000 +0900" channel="CINETREE">
+    <title lang="ko">초[민망한]능력자들</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">초[민망한]능력자들
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+알면 다치고, 모르면 더 궁금한~! 그들의 탑 시크릿이 시작된다! 특종을 애타게 찾고 있던 기자 밥 윌...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114150000 +0900" stop="20261114160000 +0900" channel="CINETREE">
+    <title lang="ko">초[민망한]능력자들</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">초[민망한]능력자들
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+알면 다치고, 모르면 더 궁금한~! 그들의 탑 시크릿이 시작된다! 특종을 애타게 찾고 있던 기자 밥 윌...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114160000 +0900" stop="20261114170000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (524회)</title>
+    <desc lang="ko">걸어서 세계속으로 (524회)
+회차 : 524회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.523.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114170000 +0900" stop="20261114180000 +0900" channel="CINETREE">
+    <title lang="ko">걸어서 세계속으로 (526회)</title>
+    <desc lang="ko">걸어서 세계속으로 (526회)
+회차 : 526회
+장르 : 시사/다큐
+등급 : 전체 관람가</desc>
+    <category lang="ko">시사/다큐</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.525.0/0</episode-num>
+    <rating system="KR">
+      <value>전체 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114180000 +0900" stop="20261114185000 +0900" channel="CINETREE">
+    <title lang="ko">행성충돌 : 지구 최후의 날</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">행성충돌 : 지구 최후의 날
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114185000 +0900" stop="20261114194000 +0900" channel="CINETREE">
+    <title lang="ko">행성충돌 : 지구 최후의 날</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">행성충돌 : 지구 최후의 날
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114194000 +0900" stop="20261114205000 +0900" channel="CINETREE">
+    <title lang="ko">악질경찰</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">악질경찰
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+권력이 부패를 만나면 더욱 악질이 된다!! 뉴올리언즈 형사 테렌스 맥도나는 허리케인 카트리나가 불어 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114205000 +0900" stop="20261114220000 +0900" channel="CINETREE">
+    <title lang="ko">악질경찰</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">악질경찰
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+권력이 부패를 만나면 더욱 악질이 된다!! 뉴올리언즈 형사 테렌스 맥도나는 허리케인 카트리나가 불어 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114220000 +0900" stop="20261114230000 +0900" channel="CINETREE">
+    <title lang="ko">블랙 데스</title>
+    <sub-title lang="ko">1부</sub-title>
+    <desc lang="ko">블랙 데스
+부제 : 1부
+장르 : 영화
+등급 : 15세 이상 관람가
+흑사병이 창궐하던 시기, 모든 마을에서 사람들이 죽어 나가지만 유독 한 마을에서만 흑사병 사망자가 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
+    </rating>
+  </programme>
+  <programme start="20261114230000 +0900" stop="20261115000000 +0900" channel="CINETREE">
+    <title lang="ko">블랙 데스</title>
+    <sub-title lang="ko">2부</sub-title>
+    <desc lang="ko">블랙 데스
+부제 : 2부
+장르 : 영화
+등급 : 15세 이상 관람가
+흑사병이 창궐하던 시기, 모든 마을에서 사람들이 죽어 나가지만 유독 한 마을에서만 흑사병 사망자가 ...</desc>
+    <category lang="ko">영화</category>
+    <category lang="en">Movie / Drama</category>
+    <rating system="KR">
+      <value>15세 이상 관람가</value>
     </rating>
   </programme>
 </tv>
