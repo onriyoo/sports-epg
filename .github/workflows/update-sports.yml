@@ -48,17 +48,20 @@ jobs:
           if len(old_channels) != 63:
               raise SystemExit("기존 채널 수 오류: 63개가 아닙니다.")
 
-          if len(new_channels) != 16 or len(new_programs) < 200:
+          if len(new_channels) != 18 or len(new_programs) < 200:
               raise SystemExit("신규 EPG 수집 검증 실패")
 
           old_ids = {c.get("id") for c in old_channels}
           new_ids = {c.get("id") for c in new_channels}
 
-          if len(old_ids) != 63 or len(new_ids) != 16:
+          if len(old_ids) != 63 or len(new_ids) != 18:
               raise SystemExit("중복 채널 ID 발견")
 
-          if not new_ids.issubset(old_ids):
-              raise SystemExit("기존에 없는 채널 ID 발견")
+          overlap_ids = new_ids & old_ids
+          added_ids = new_ids - old_ids
+
+          if len(overlap_ids) != 16 or len(added_ids) != 2:
+              raise SystemExit("기존 16개 + 신규 2개 채널 구성 오류")
 
           new_counts = {}
           for p in new_programs:
@@ -71,10 +74,23 @@ jobs:
 
           merged_root = ET.Element(old_root.tag, old_root.attrib)
 
+          inserted = False
+
           for child in old_root:
+              if child.tag == "programme" and not inserted:
+                  for c in new_channels:
+                      if c.get("id") in added_ids:
+                          merged_root.append(copy.deepcopy(c))
+                  inserted = True
+
               if child.tag == "programme" and child.get("channel") in new_ids:
                   continue
               merged_root.append(copy.deepcopy(child))
+
+          if not inserted:
+              for c in new_channels:
+                  if c.get("id") in added_ids:
+                      merged_root.append(copy.deepcopy(c))
 
           for p in new_programs:
               merged_root.append(copy.deepcopy(p))
