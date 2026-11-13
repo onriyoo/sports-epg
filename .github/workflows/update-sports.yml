@@ -30,31 +30,91 @@ jobs:
         run: |
           epg2xml run --config epg2xml_sports.json --channelfile Channel.json --xmlfile sports_update_tmp.xml
 
-      - name: Validate and publish
+      - name: Validate, merge, and publish
         run: |
           python - <<'PY'
           import xml.etree.ElementTree as ET
           import os
           import shutil
+          import copy
 
-          root = ET.parse("sports_update_tmp.xml").getroot()
-          channels = root.findall("channel")
-          programs = root.findall("programme")
+          old_root = ET.parse("epg_sports.xml").getroot()
+          new_root = ET.parse("sports_update_tmp.xml").getroot()
 
-          if len(channels) != 16 or len(programs) < 200:
-              raise SystemExit("EPG 검증 실패")
+          old_channels = old_root.findall("channel")
+          new_channels = new_root.findall("channel")
+          new_programs = new_root.findall("programme")
 
-          for c in channels:
-              cid = c.get("id")
-              count = sum(1 for p in programs if p.get("channel") == cid)
-              if count == 0:
-                  raise SystemExit(f"편성정보 없음: {cid}")
+          if len(old_channels) != 63:
+              raise SystemExit("기존 채널 수 오류: 63개가 아닙니다.")
+
+          if len(new_channels) != 16 or len(new_programs) < 200:
+              raise SystemExit("신규 EPG 수집 검증 실패")
+
+          old_ids = {c.get("id") for c in old_channels}
+          new_ids = {c.get("id") for c in new_channels}
+
+          if len(old_ids) != 63 or len(new_ids) != 16:
+              raise SystemExit("중복 채널 ID 발견")
+
+          if not new_ids.issubset(old_ids):
+              raise SystemExit("기존에 없는 채널 ID 발견")
+
+          new_counts = {}
+          for p in new_programs:
+              cid = p.get("channel")
+              new_counts[cid] = new_counts.get(cid, 0) + 1
+
+          for cid in new_ids:
+              if new_counts.get(cid, 0) == 0:
+                  raise SystemExit(f"신규 편성정보 없음: {cid}")
+
+          merged_root = ET.Element(old_root.tag, old_root.attrib)
+
+          for child in old_root:
+              if child.tag == "programme" and child.get("channel") in new_ids:
+                  continue
+              merged_root.append(copy.deepcopy(child))
+
+          for p in new_programs:
+              merged_root.append(copy.deepcopy(p))
+
+          merged_channels = merged_root.findall("channel")
+          merged_programs = merged_root.findall("programme")
+
+          if len(merged_channels) != 63:
+              raise SystemExit("병합 후 채널 수 오류")
+
+          counts = {}
+          for p in merged_programs:
+              cid = p.get("channel")
+              counts[cid] = counts.get(cid, 0) + 1
+
+          missing = [
+              c.get("id") for c in merged_channels
+              if counts.get(c.get("id"), 0) == 0
+          ]
+
+          if missing:
+              raise SystemExit(f"편성정보 없는 채널: {missing}")
+
+          ET.ElementTree(merged_root).write(
+              "sports_update_merged.xml",
+              encoding="utf-8",
+              xml_declaration=True
+          )
+
+          ET.parse("sports_update_merged.xml")
 
           os.makedirs("backups", exist_ok=True)
-          shutil.copy2("epg_sports.xml", "backups/epg_sports_previous.xml")
-          os.replace("sports_update_tmp.xml", "epg_sports.xml")
+          shutil.copy2(
+              "epg_sports.xml",
+              "backups/epg_sports_previous.xml"
+          )
 
-          print("검증 성공:", len(channels), "채널,", len(programs), "편성표")
+          os.replace("sports_update_merged.xml", "epg_sports.xml")
+
+          print("병합 성공:", len(merged_channels), "채널,", len(merged_programs), "편성표")
           PY
 
       - name: Commit and push
