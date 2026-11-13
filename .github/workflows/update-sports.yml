@@ -82,7 +82,7 @@ jobs:
           merged_channels = merged_root.findall("channel")
           merged_programs = merged_root.findall("programme")
 
-          if len(merged_channels) != 63:
+          if len(merged_channels) != 65:
               raise SystemExit("병합 후 채널 수 오류")
 
           counts = {}
