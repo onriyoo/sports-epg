@@ -45,8 +45,8 @@ jobs:
           new_channels = new_root.findall("channel")
           new_programs = new_root.findall("programme")
 
-          if len(old_channels) != 63:
-              raise SystemExit("기존 채널 수 오류: 63개가 아닙니다.")
+          if len(old_channels) != 65:
+              raise SystemExit("기존 채널 수 오류: 65개가 아닙니다.")
 
           if len(new_channels) != 18 or len(new_programs) < 200:
               raise SystemExit("신규 EPG 수집 검증 실패")
@@ -54,14 +54,14 @@ jobs:
           old_ids = {c.get("id") for c in old_channels}
           new_ids = {c.get("id") for c in new_channels}
 
-          if len(old_ids) != 63 or len(new_ids) != 18:
+          if len(old_ids) != 65 or len(new_ids) != 18 or len(old_ids) != len(old_channels) or len(new_ids) != len(new_channels):
               raise SystemExit("중복 채널 ID 발견")
 
           overlap_ids = new_ids & old_ids
           added_ids = new_ids - old_ids
 
-          if len(overlap_ids) != 16 or len(added_ids) != 2:
-              raise SystemExit("기존 16개 + 신규 2개 채널 구성 오류")
+          if len(overlap_ids) != 18 or len(added_ids) != 0:
+              raise SystemExit("기존 18개 채널 일치 여부 오류")
 
           new_counts = {}
           for p in new_programs:
