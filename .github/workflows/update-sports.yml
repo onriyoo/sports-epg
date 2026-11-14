@@ -30,6 +30,30 @@ jobs:
           python -m pip install --upgrade pip
           pip install "epg2xml[curl] @ git+https://github.com/epg2xml/epg2xml.git@v2.8.2"
 
+      - name: Refresh SK cache timestamp
+        run: |
+          python - <<'PYCODE'
+          import re
+          from pathlib import Path
+          from datetime import datetime
+
+          p = Path("Channel.json")
+          s = p.read_text(encoding="utf-8")
+
+          s, n = re.subn(
+              r'("SK"\s*:\s*\{\s*"UPDATED"\s*:\s*")[^"]+(")',
+              lambda m: m.group(1) + datetime.now().isoformat(timespec="microseconds") + m.group(2),
+              s,
+              count=1
+          )
+
+          if n != 1:
+              raise SystemExit("SK 캐시 갱신 실패")
+
+          p.write_text(s, encoding="utf-8")
+          print("SK 캐시 자동 갱신 성공")
+          PYCODE
+
       - name: Collect sports EPG
         run: |
           epg2xml run --config epg2xml_sports.json --channelfile Channel.json --xmlfile sports_update_tmp.xml
