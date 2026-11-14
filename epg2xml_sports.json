@@ -111,6 +111,96 @@
         "Category": "스포츠/레저"
       },
       {
+        "Name": "ENA",
+        "No": "24",
+        "ServiceId": "871",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "바둑TV",
+        "No": "220",
+        "ServiceId": "528",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "브레인TV",
+        "No": "222",
+        "ServiceId": "279",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "FTV",
+        "No": "223",
+        "ServiceId": "530",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "한국낚시방송",
+        "No": "224",
+        "ServiceId": "273",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "OLIFE",
+        "No": "226",
+        "ServiceId": "283",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "폴라리스TV",
+        "No": "229",
+        "ServiceId": "252",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "코미디TV",
+        "No": "54",
+        "ServiceId": "906",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "Gtv",
+        "No": "66",
+        "ServiceId": "284",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "더라이프",
+        "No": "67",
+        "ServiceId": "898",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "GMTV",
+        "No": "201",
+        "ServiceId": "671",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "아이넷 TV",
+        "No": "202",
+        "ServiceId": "261",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "육아방송",
+        "No": "242",
+        "ServiceId": "287",
+        "Category": "라이프/정보"
+      },
+      {
+        "Name": "실버아이TV",
+        "No": "251",
+        "ServiceId": "286",
+        "Category": "라이프/정보"
+      },
+      {
+        "Name": "채널i",
+        "No": "259",
+        "ServiceId": "439",
+        "Category": "라이프/정보"
+      },
+      {
         "Name": "Asia N",
         "No": "63",
         "ServiceId": "177",
@@ -123,15 +213,15 @@
         "Category": "연예/오락"
       },
       {
-        "Name": "OCN Movies",
-        "No": "72",
-        "ServiceId": "187",
-        "Category": "영화"
-      },
-      {
         "Name": "OCN",
         "No": "73",
         "ServiceId": "178",
+        "Category": "영화"
+      },
+      {
+        "Name": "OCN Movies",
+        "No": "72",
+        "ServiceId": "187",
         "Category": "영화"
       },
       {
@@ -139,6 +229,180 @@
         "No": "74",
         "ServiceId": "179",
         "Category": "영화"
+      },
+      {
+        "Name": "CATCH ON 1",
+        "No": "70",
+        "ServiceId": "181",
+        "Category": "영화"
+      },
+      {
+        "Name": "The Movie",
+        "No": "79",
+        "ServiceId": "198",
+        "Category": "영화"
+      },
+      {
+        "Name": "Mplex",
+        "No": "77",
+        "ServiceId": "171",
+        "Category": "영화"
+      },
+      {
+        "Name": "CINETREE",
+        "No": "81",
+        "ServiceId": "441",
+        "Category": "영화"
+      },
+      {
+        "Name": "NXT",
+        "No": "62",
+        "ServiceId": "195",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "i show",
+        "No": "205",
+        "ServiceId": "905",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "StoryTV",
+        "No": "116",
+        "ServiceId": "289",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "HQplus",
+        "No": "47",
+        "ServiceId": "908",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "리빙TV",
+        "No": "230",
+        "ServiceId": "263",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "i play",
+        "No": "235",
+        "ServiceId": "277",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "생활체육TV",
+        "No": "233",
+        "ServiceId": "264",
+        "Category": "스포츠/레저"
+      },
+      {
+        "Name": "아이넷라이프",
+        "No": "204",
+        "ServiceId": "269",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "채널J",
+        "No": "132",
+        "ServiceId": "197",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "채널차이나",
+        "No": "137",
+        "ServiceId": "520",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "EDGE ON",
+        "No": "92",
+        "ServiceId": "456",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "E LIKE",
+        "No": "61",
+        "ServiceId": "274",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "Smile TV Plus",
+        "No": "104",
+        "ServiceId": "894",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "FUN TV",
+        "No": "69",
+        "ServiceId": "887",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "EDGE TV",
+        "No": "44",
+        "ServiceId": "128",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "CNTV",
+        "No": "43",
+        "ServiceId": "175",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "채널 뷰",
+        "No": "49",
+        "ServiceId": "276",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "CMCTV",
+        "No": "94",
+        "ServiceId": "876",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "Dramax",
+        "No": "38",
+        "ServiceId": "904",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "채널S",
+        "No": "1",
+        "ServiceId": "868",
+        "Category": "연예/오락"
+      },
+      {
+        "Name": "Highlight TV",
+        "No": "42",
+        "ServiceId": "885",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "채널 Ching",
+        "No": "134",
+        "ServiceId": "907",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "Ch.NOW",
+        "No": "130",
+        "ServiceId": "189",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "ENA DRAMA",
+        "No": "46",
+        "ServiceId": "875",
+        "Category": "드라마/시리즈"
+      },
+      {
+        "Name": "ENA STORY",
+        "No": "115",
+        "ServiceId": "288",
+        "Category": "연예/오락"
       }
     ]
   },
