@@ -6,6 +6,10 @@ on:
       timezone: 'Asia/Seoul'
   workflow_dispatch:
 
+concurrency:
+  group: sports-epg-update
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
