@@ -230,6 +230,230 @@
     <display-name>68 K star</display-name>
     <display-name>68 SK</display-name>
   </channel>
+  <channel id="OCN">
+    <display-name>OCN</display-name>
+    <display-name>SK</display-name>
+    <display-name>73</display-name>
+    <display-name>73 OCN</display-name>
+    <display-name>73 SK</display-name>
+  </channel>
+  <channel id="OCN Movies">
+    <display-name>OCN Movies</display-name>
+    <display-name>SK</display-name>
+    <display-name>72</display-name>
+    <display-name>72 OCN Movies</display-name>
+    <display-name>72 SK</display-name>
+  </channel>
+  <channel id="OCN Movies2">
+    <display-name>OCN Movies2</display-name>
+    <display-name>SK</display-name>
+    <display-name>74</display-name>
+    <display-name>74 OCN Movies2</display-name>
+    <display-name>74 SK</display-name>
+  </channel>
+  <channel id="CATCH ON 1">
+    <display-name>CATCH ON 1</display-name>
+    <display-name>SK</display-name>
+    <display-name>70</display-name>
+    <display-name>70 CATCH ON 1</display-name>
+    <display-name>70 SK</display-name>
+  </channel>
+  <channel id="The Movie">
+    <display-name>The Movie</display-name>
+    <display-name>SK</display-name>
+    <display-name>79</display-name>
+    <display-name>79 The Movie</display-name>
+    <display-name>79 SK</display-name>
+  </channel>
+  <channel id="Mplex">
+    <display-name>Mplex</display-name>
+    <display-name>SK</display-name>
+    <display-name>77</display-name>
+    <display-name>77 Mplex</display-name>
+    <display-name>77 SK</display-name>
+  </channel>
+  <channel id="CINETREE">
+    <display-name>CINETREE</display-name>
+    <display-name>SK</display-name>
+    <display-name>81</display-name>
+    <display-name>81 CINETREE</display-name>
+    <display-name>81 SK</display-name>
+  </channel>
+  <channel id="NXT">
+    <display-name>NXT</display-name>
+    <display-name>SK</display-name>
+    <display-name>62</display-name>
+    <display-name>62 NXT</display-name>
+    <display-name>62 SK</display-name>
+  </channel>
+  <channel id="i show">
+    <display-name>i show</display-name>
+    <display-name>SK</display-name>
+    <display-name>205</display-name>
+    <display-name>205 i show</display-name>
+    <display-name>205 SK</display-name>
+  </channel>
+  <channel id="StoryTV">
+    <display-name>StoryTV</display-name>
+    <display-name>SK</display-name>
+    <display-name>116</display-name>
+    <display-name>116 StoryTV</display-name>
+    <display-name>116 SK</display-name>
+  </channel>
+  <channel id="HQplus">
+    <display-name>HQplus</display-name>
+    <display-name>SK</display-name>
+    <display-name>47</display-name>
+    <display-name>47 HQplus</display-name>
+    <display-name>47 SK</display-name>
+  </channel>
+  <channel id="리빙TV">
+    <display-name>리빙TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>230</display-name>
+    <display-name>230 리빙TV</display-name>
+    <display-name>230 SK</display-name>
+  </channel>
+  <channel id="i play">
+    <display-name>i play</display-name>
+    <display-name>SK</display-name>
+    <display-name>235</display-name>
+    <display-name>235 i play</display-name>
+    <display-name>235 SK</display-name>
+  </channel>
+  <channel id="생활체육TV">
+    <display-name>생활체육TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>233</display-name>
+    <display-name>233 생활체육TV</display-name>
+    <display-name>233 SK</display-name>
+  </channel>
+  <channel id="아이넷라이프">
+    <display-name>아이넷라이프</display-name>
+    <display-name>SK</display-name>
+    <display-name>204</display-name>
+    <display-name>204 아이넷라이프</display-name>
+    <display-name>204 SK</display-name>
+  </channel>
+  <channel id="채널J">
+    <display-name>채널J</display-name>
+    <display-name>SK</display-name>
+    <display-name>132</display-name>
+    <display-name>132 채널J</display-name>
+    <display-name>132 SK</display-name>
+  </channel>
+  <channel id="채널차이나">
+    <display-name>채널차이나</display-name>
+    <display-name>SK</display-name>
+    <display-name>137</display-name>
+    <display-name>137 채널차이나</display-name>
+    <display-name>137 SK</display-name>
+  </channel>
+  <channel id="EDGE ON">
+    <display-name>EDGE ON</display-name>
+    <display-name>SK</display-name>
+    <display-name>92</display-name>
+    <display-name>92 EDGE ON</display-name>
+    <display-name>92 SK</display-name>
+  </channel>
+  <channel id="E LIKE">
+    <display-name>E LIKE</display-name>
+    <display-name>SK</display-name>
+    <display-name>61</display-name>
+    <display-name>61 E LIKE</display-name>
+    <display-name>61 SK</display-name>
+  </channel>
+  <channel id="Smile TV Plus">
+    <display-name>Smile TV Plus</display-name>
+    <display-name>SK</display-name>
+    <display-name>104</display-name>
+    <display-name>104 Smile TV Plus</display-name>
+    <display-name>104 SK</display-name>
+  </channel>
+  <channel id="FUN TV">
+    <display-name>FUN TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>69</display-name>
+    <display-name>69 FUN TV</display-name>
+    <display-name>69 SK</display-name>
+  </channel>
+  <channel id="EDGE TV">
+    <display-name>EDGE TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>44</display-name>
+    <display-name>44 EDGE TV</display-name>
+    <display-name>44 SK</display-name>
+  </channel>
+  <channel id="CNTV">
+    <display-name>CNTV</display-name>
+    <display-name>SK</display-name>
+    <display-name>43</display-name>
+    <display-name>43 CNTV</display-name>
+    <display-name>43 SK</display-name>
+  </channel>
+  <channel id="채널 뷰">
+    <display-name>채널 뷰</display-name>
+    <display-name>SK</display-name>
+    <display-name>49</display-name>
+    <display-name>49 채널 뷰</display-name>
+    <display-name>49 SK</display-name>
+  </channel>
+  <channel id="CMCTV">
+    <display-name>CMCTV</display-name>
+    <display-name>SK</display-name>
+    <display-name>94</display-name>
+    <display-name>94 CMCTV</display-name>
+    <display-name>94 SK</display-name>
+  </channel>
+  <channel id="Dramax">
+    <display-name>Dramax</display-name>
+    <display-name>SK</display-name>
+    <display-name>38</display-name>
+    <display-name>38 Dramax</display-name>
+    <display-name>38 SK</display-name>
+  </channel>
+  <channel id="채널S">
+    <display-name>채널S</display-name>
+    <display-name>SK</display-name>
+    <display-name>1</display-name>
+    <display-name>1 채널S</display-name>
+    <display-name>1 SK</display-name>
+  </channel>
+  <channel id="Highlight TV">
+    <display-name>Highlight TV</display-name>
+    <display-name>SK</display-name>
+    <display-name>42</display-name>
+    <display-name>42 Highlight TV</display-name>
+    <display-name>42 SK</display-name>
+  </channel>
+  <channel id="채널 Ching">
+    <display-name>채널 Ching</display-name>
+    <display-name>SK</display-name>
+    <display-name>134</display-name>
+    <display-name>134 채널 Ching</display-name>
+    <display-name>134 SK</display-name>
+  </channel>
+  <channel id="Ch.NOW">
+    <display-name>Ch.NOW</display-name>
+    <display-name>SK</display-name>
+    <display-name>130</display-name>
+    <display-name>130 Ch.NOW</display-name>
+    <display-name>130 SK</display-name>
+  </channel>
+  <channel id="ENA DRAMA">
+    <display-name>ENA DRAMA</display-name>
+    <display-name>SK</display-name>
+    <display-name>46</display-name>
+    <display-name>46 ENA DRAMA</display-name>
+    <display-name>46 SK</display-name>
+  </channel>
+  <channel id="ENA STORY">
+    <display-name>ENA STORY</display-name>
+    <display-name>SK</display-name>
+    <display-name>115</display-name>
+    <display-name>115 ENA STORY</display-name>
+    <display-name>115 SK</display-name>
+  </channel>
   <programme start="20261112003500 +0900" stop="20261112023700 +0900" channel="ENA">
     <title lang="ko">나는 SOLO (279회) (재)</title>
     <desc lang="ko">나는 SOLO (279회) (재)
@@ -14486,55 +14710,6 @@
       <value>전체 관람가</value>
     </rating>
   </programme>
-  <channel id="OCN">
-    <display-name>OCN</display-name>
-    <display-name>SK</display-name>
-    <display-name>73</display-name>
-    <display-name>73 OCN</display-name>
-    <display-name>73 SK</display-name>
-  </channel>
-  <channel id="OCN Movies">
-    <display-name>OCN Movies</display-name>
-    <display-name>SK</display-name>
-    <display-name>72</display-name>
-    <display-name>72 OCN Movies</display-name>
-    <display-name>72 SK</display-name>
-  </channel>
-  <channel id="OCN Movies2">
-    <display-name>OCN Movies2</display-name>
-    <display-name>SK</display-name>
-    <display-name>74</display-name>
-    <display-name>74 OCN Movies2</display-name>
-    <display-name>74 SK</display-name>
-  </channel>
-  <channel id="CATCH ON 1">
-    <display-name>CATCH ON 1</display-name>
-    <display-name>SK</display-name>
-    <display-name>70</display-name>
-    <display-name>70 CATCH ON 1</display-name>
-    <display-name>70 SK</display-name>
-  </channel>
-  <channel id="The Movie">
-    <display-name>The Movie</display-name>
-    <display-name>SK</display-name>
-    <display-name>79</display-name>
-    <display-name>79 The Movie</display-name>
-    <display-name>79 SK</display-name>
-  </channel>
-  <channel id="Mplex">
-    <display-name>Mplex</display-name>
-    <display-name>SK</display-name>
-    <display-name>77</display-name>
-    <display-name>77 Mplex</display-name>
-    <display-name>77 SK</display-name>
-  </channel>
-  <channel id="CINETREE">
-    <display-name>CINETREE</display-name>
-    <display-name>SK</display-name>
-    <display-name>81</display-name>
-    <display-name>81 CINETREE</display-name>
-    <display-name>81 SK</display-name>
-  </channel>
   <programme start="20261112011000 +0900" stop="20261112030000 +0900" channel="OCN">
     <title lang="ko">모탈컴뱃</title>
     <desc lang="ko">모탈컴뱃
@@ -18750,118 +18925,6 @@ CIA 에이전트 빌은 워싱턴, 베를린, 베이징을 폐허로 만들 반�
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <channel id="NXT">
-    <display-name>NXT</display-name>
-    <display-name>SK</display-name>
-    <display-name>62</display-name>
-    <display-name>62 NXT</display-name>
-    <display-name>62 SK</display-name>
-  </channel>
-  <channel id="i show">
-    <display-name>i show</display-name>
-    <display-name>SK</display-name>
-    <display-name>205</display-name>
-    <display-name>205 i show</display-name>
-    <display-name>205 SK</display-name>
-  </channel>
-  <channel id="StoryTV">
-    <display-name>StoryTV</display-name>
-    <display-name>SK</display-name>
-    <display-name>116</display-name>
-    <display-name>116 StoryTV</display-name>
-    <display-name>116 SK</display-name>
-  </channel>
-  <channel id="HQplus">
-    <display-name>HQplus</display-name>
-    <display-name>SK</display-name>
-    <display-name>47</display-name>
-    <display-name>47 HQplus</display-name>
-    <display-name>47 SK</display-name>
-  </channel>
-  <channel id="리빙TV">
-    <display-name>리빙TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>230</display-name>
-    <display-name>230 리빙TV</display-name>
-    <display-name>230 SK</display-name>
-  </channel>
-  <channel id="i play">
-    <display-name>i play</display-name>
-    <display-name>SK</display-name>
-    <display-name>235</display-name>
-    <display-name>235 i play</display-name>
-    <display-name>235 SK</display-name>
-  </channel>
-  <channel id="생활체육TV">
-    <display-name>생활체육TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>233</display-name>
-    <display-name>233 생활체육TV</display-name>
-    <display-name>233 SK</display-name>
-  </channel>
-  <channel id="아이넷라이프">
-    <display-name>아이넷라이프</display-name>
-    <display-name>SK</display-name>
-    <display-name>204</display-name>
-    <display-name>204 아이넷라이프</display-name>
-    <display-name>204 SK</display-name>
-  </channel>
-  <channel id="채널J">
-    <display-name>채널J</display-name>
-    <display-name>SK</display-name>
-    <display-name>132</display-name>
-    <display-name>132 채널J</display-name>
-    <display-name>132 SK</display-name>
-  </channel>
-  <channel id="채널차이나">
-    <display-name>채널차이나</display-name>
-    <display-name>SK</display-name>
-    <display-name>137</display-name>
-    <display-name>137 채널차이나</display-name>
-    <display-name>137 SK</display-name>
-  </channel>
-  <channel id="EDGE ON">
-    <display-name>EDGE ON</display-name>
-    <display-name>SK</display-name>
-    <display-name>92</display-name>
-    <display-name>92 EDGE ON</display-name>
-    <display-name>92 SK</display-name>
-  </channel>
-  <channel id="E LIKE">
-    <display-name>E LIKE</display-name>
-    <display-name>SK</display-name>
-    <display-name>61</display-name>
-    <display-name>61 E LIKE</display-name>
-    <display-name>61 SK</display-name>
-  </channel>
-  <channel id="Smile TV Plus">
-    <display-name>Smile TV Plus</display-name>
-    <display-name>SK</display-name>
-    <display-name>104</display-name>
-    <display-name>104 Smile TV Plus</display-name>
-    <display-name>104 SK</display-name>
-  </channel>
-  <channel id="FUN TV">
-    <display-name>FUN TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>69</display-name>
-    <display-name>69 FUN TV</display-name>
-    <display-name>69 SK</display-name>
-  </channel>
-  <channel id="EDGE TV">
-    <display-name>EDGE TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>44</display-name>
-    <display-name>44 EDGE TV</display-name>
-    <display-name>44 SK</display-name>
-  </channel>
-  <channel id="CNTV">
-    <display-name>CNTV</display-name>
-    <display-name>SK</display-name>
-    <display-name>43</display-name>
-    <display-name>43 CNTV</display-name>
-    <display-name>43 SK</display-name>
-  </channel>
   <programme start="20261112010000 +0900" stop="20261112021000 +0900" channel="NXT">
     <title lang="ko">캣츠 아이 (2회)</title>
     <desc lang="ko">캣츠 아이 (2회)
@@ -34479,69 +34542,6 @@ PFL 아프리카 모로코 3회</desc>
       <value>15세 이상 관람가</value>
     </rating>
   </programme>
-  <channel id="채널 뷰">
-    <display-name>채널 뷰</display-name>
-    <display-name>SK</display-name>
-    <display-name>49</display-name>
-    <display-name>49 채널 뷰</display-name>
-    <display-name>49 SK</display-name>
-  </channel>
-  <channel id="CMCTV">
-    <display-name>CMCTV</display-name>
-    <display-name>SK</display-name>
-    <display-name>94</display-name>
-    <display-name>94 CMCTV</display-name>
-    <display-name>94 SK</display-name>
-  </channel>
-  <channel id="Dramax">
-    <display-name>Dramax</display-name>
-    <display-name>SK</display-name>
-    <display-name>38</display-name>
-    <display-name>38 Dramax</display-name>
-    <display-name>38 SK</display-name>
-  </channel>
-  <channel id="채널S">
-    <display-name>채널S</display-name>
-    <display-name>SK</display-name>
-    <display-name>1</display-name>
-    <display-name>1 채널S</display-name>
-    <display-name>1 SK</display-name>
-  </channel>
-  <channel id="Highlight TV">
-    <display-name>Highlight TV</display-name>
-    <display-name>SK</display-name>
-    <display-name>42</display-name>
-    <display-name>42 Highlight TV</display-name>
-    <display-name>42 SK</display-name>
-  </channel>
-  <channel id="채널 Ching">
-    <display-name>채널 Ching</display-name>
-    <display-name>SK</display-name>
-    <display-name>134</display-name>
-    <display-name>134 채널 Ching</display-name>
-    <display-name>134 SK</display-name>
-  </channel>
-  <channel id="Ch.NOW">
-    <display-name>Ch.NOW</display-name>
-    <display-name>SK</display-name>
-    <display-name>130</display-name>
-    <display-name>130 Ch.NOW</display-name>
-    <display-name>130 SK</display-name>
-  </channel>
-  <channel id="ENA DRAMA">
-    <display-name>ENA DRAMA</display-name>
-    <display-name>SK</display-name>
-    <display-name>46</display-name>
-    <display-name>46 ENA DRAMA</display-name>
-    <display-name>46 SK</display-name>
-  </channel>
-  <channel id="ENA STORY">
-    <display-name>ENA STORY</display-name>
-    <display-name>SK</display-name>
-    <display-name>115</display-name>
-    <display-name>115 ENA STORY</display-name>
-    <display-name>115 SK</display-name>
-  </channel>
   <programme start="20261112002300 +0900" stop="20261112020500 +0900" channel="채널 뷰">
     <title lang="ko">끝까지 간다 독박투어 (19회)</title>
     <desc lang="ko">끝까지 간다 독박투어 (19회)
